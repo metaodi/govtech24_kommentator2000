@@ -1,2 +1,6 @@
-bluebell
 muzzle
+flask
+Flask
+Flask-Cors
+python-dotenv
+pygithub
