@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quill Editor Demo</title>
+  <!-- Include Quill stylesheet -->
+  <link href="https://cdn.jsdelivr.net/npm/quill@2.0.0-rc.2/dist/quill.snow.css" rel="stylesheet" />
+
+</head>
+<body>
+
+<!-- Create the editor container -->
+<div id="editor">
+  <p>Hello World!</p>
+  <p>Some initial <strong>bold</strong> text</p>
+  <p><br /></p>
+</div>
+
+<!-- Include the Quill library -->
+<script src="https://cdn.jsdelivr.net/npm/quill@2.0.0-rc.2/dist/quill.js"></script>
+
+<!-- Initialize Quill editor -->
+<script>
+  const quill = new Quill('#editor', {
+    theme: 'snow'
+  });
+  var jsonData = [
+      { id: 1, text: 'Option 1' },
+      { id: 2, text: 'Option 2' },
+      { id: 3, text: 'Option 3' }
+  ];
+
+  // Define custom select handler
+  Quill.register('modules/custom-select', function(quill, options) {
+    var container = document.createElement('select');
+    options.forEach(function(option) {
+      var optionElement = document.createElement('option');
+      optionElement.setAttribute('value', option.id);
+      optionElement.textContent = option.text;
+      container.appendChild(optionElement);
+    });
+    container.onchange = function() {
+      var value = container.value;
+      var selection = quill.getSelection();
+      quill.insertText(selection.index, container.options[container.selectedIndex].text);
+    };
+    this.container = container;
+    quill.container.parentNode.querySelector('.ql-custom-select').appendChild(container);
+  });
+
+  // Add custom select handler to Quill
+  document.querySelector('.ql-custom-select').addEventListener('change', function() {
+    var value = this.value;
+    var selection = quill.getSelection();
+    quill.insertText(selection.index, this.options[this.selectedIndex].text);
+  });
+</script>
+
+
+</body>
+</html>
+
