@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="utf8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ProseMirror Kommentator 2000</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+
+<body>
+    <article>
+        <style>
+            #k2k-editor {
+                background-color: rgba(0, 0, 0, 0.05);
+                padding: 0
+            }
+
+            .ProseMirror {
+                min-height: none !important
+            }
+
+            .ProseMirror a {
+                text-decoration: underline;
+            }
+
+            b,
+            heading {
+                color: rgb(0, 102, 153);
+                font-size: 21.75px;
+                font-weight: 700;
+            }
+        </style>
+        <div id="k2k-editor">
+        </div>
+
+        <div style="display: none">
+            <div id="k2k-content">
+                <article eId="art_1">
+                    <num>
+                        <b>Art. 1</b>
+                    </num>
+                    <heading>Verhandlungen</heading>
+                    <paragraph eId="art_1/para_u1">
+                        <content>
+                            <p> (Art. 13, 16 Abs. 1 und 4, 17 RVOG)</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_1/para_1">
+                        <content>
+                            <p> Die Sitzungen des Bundesrates finden in der Regel einmal jede Woche statt.</p>
+                        </content>
+                    </paragraph>
+                </article>
+                <article eId="art_2">
+                    <num>
+                        <b>Art. 2</b>
+                    </num>
+                    <heading>Geschäftsplanung</heading>
+                    <paragraph eId="art_2/para_u1">
+                        <content>
+                            <p> (Art. 25 Abs. 2 Bst. a, 32 Bst. b und 33 RVOG)</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_2/para_1">
+                        <num>1</num>
+                        <content>
+                            <p> Mit der Geschäftsplanung wird sichergestellt, dass die Geschäfte im Bundesrat
+                                entsprechend ihrer Bedeutung und Dringlichkeit behandelt werden können.</p>
+                        </content>
+                    </paragraph>
+                    <paragraph eId="art_2/para_2">
+                        <num>2</num>
+                        <content>
+                            <p> Die Bundespräsidentin oder der Bundespräsident legt mit der Bundeskanzlei und den
+                                Departementen die wichtigsten Geschäfte und Themenschwerpunkte für ein Quartal oder
+                                Semester fest.</p>
+                        </content>
+                    </paragraph>
+                </article>
+            </div>
+        </div>
+
+
+        <link rel="stylesheet" href="editor.css">
+        <script src="prosemirror.js"></script>
+        <script src="prosemirror-k2k.js"></script>
+    </article>
+
+    <footer>
+    </footer>
+
+</body>
+
+</html>
