@@ -1,6 +1,9 @@
 # Kommentator 2000
 
-GitHub: https://github.com/metaodi/govtech24_kommentator2000
+* GitHub: https://github.com/metaodi/govtech24_kommentator2000
+* Hackathon Challenge: 
+https://hack.opendata.ch/project/1106
+
 
 ## Analyse
 
