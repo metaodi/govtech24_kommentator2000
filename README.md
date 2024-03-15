@@ -22,18 +22,33 @@ Im Akamo Ntoso XML von Fedlex können folgende Identifikatoren verwendet werden:
 // e.g. "art_1/para_1"
 //paragraph[@eId]
 ```
+### Entwurfsentscheidungen
+- Datenformat: Umwandlung in einfacheres Zwischenformat vs. mit der Komplexität von Akoma Ntoso umgehen
+- Granularität des Editor: ein Editor pro Artikel oder Paragraph vs. ein Editor für den Rechtstext 
 
-## Ziele
-Dieses Projekt hat folgende Ziele:
+
+## Approach #1
 
 1. Daten im XML Format Akoma Ntoso umzuwandeln (z.B. JSON)
 1. Die Daten pro Paragraph in einem Frontend darzustellen
 1. Jeder Paragraph braucht eine eindeutige ID
 1. Gemachte Änderungen sollen nachvollziehbar sein (z.B. als GitHub Pull Request)
 
-
-## Installation
+### Installation
 
 * Run `python_setup.sh`
 * Copy `.env.dist` to `.env` and adapt the values
 * Run the flask app using `flask run`
+
+## Approach #2
+
+1. Daten im XML Format Akoma Ntoso direkt editieren
+
+### Installation
+* Run a local web server like "Live Server" and open https://localhost/prosemirror-k2k/prosemirror-k2k.html
+
+# Pitch
+
+1. Auf fedlex.admin.ch Rechtstext öffnen und die Artikel und Paragraphen markieren die geändert werden sollen
+1. Kommentator 2000 zeigt den Rechtstext aufbereitet an
+1. Änderungen können auf Paragraph Ebene eingegeben werden
