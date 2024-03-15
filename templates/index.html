@@ -6,9 +6,9 @@
 	  <div class="form-group">
 		<label for="consultation_id" value="{{ request.args['consultation_id'] }}">Fedlex Nummer der Vernehmlassung</label>
 		<input type="text" class="form-control" name="consultation_id" aria-describedby="fedlexlHelp" value="{{ consultation_id }}" placeholder="172.010.1">
-		<small id="fedlexHelp" class="form-text text-muted">Fedlex Nummer für die eine Vernehmlassung gestartet werden sll (z.B. 172.010.1).</small>
+		<small id="fedlexHelp" class="form-text text-muted">SR-Nummer für die eine Vernehmlassung gestartet werden sll (z.B. 172.010.1).</small>
 	  </div>
-	  <button type="submit" class="btn btn-primary">Vernehmlassung laden</button>
+	  <button type="submit" class="btn btn-primary">Gesetzestext laden</button>
     </form>
     <form>
     {% for key in content %}
