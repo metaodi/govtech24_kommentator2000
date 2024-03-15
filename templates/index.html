@@ -13,9 +13,10 @@
     <form action="{{ url_for('submit_consultation')}}" method="post">
     <input type="hidden" name="sr_id" value="{{ sr_id if sr_id}}" />
     <hr>
-    {% set ns = namespace(article='') %}
+    {% set ns = namespace(article='', count=0) %}
     <h2>{{ title }}</h2>
-    {% for key in content %}
+    {% for key in content if not ns.count > 14 %}
+          {% set ns.count = ns.count + 1 %}
           <input id="{{key}}_key" name="keys" type="hidden" value="{{key}}" />
 		<div class="form-group">
           {% if ns.article != content[key]['article_num'] %}

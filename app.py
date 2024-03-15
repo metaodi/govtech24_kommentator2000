@@ -58,7 +58,7 @@ def submit_consultation():
     create_branch(branch)
     update_file_in_branch(branch, content_text, repo_path)
 
-    pr_url = create_pull_request(branch, f"New consultation for {content['_metadata']['short']}", "Please add your comments")
+    pr_url = create_pull_request(branch, f"New consultation for {content['_metadata']['short']}", "Please add your feedback")
 
     return render_template('consultation.html', pr_url=pr_url, content=content)
 
