@@ -1,6 +1,7 @@
 import muzzle
 import xml.etree.ElementTree as ET
 import json
+import os
 
 def extract_elements_with_attribute(root, attribute_name):
     # Initialize list to store elements
@@ -18,20 +19,6 @@ def extract_elements_with_attribute(root, attribute_name):
     return elements_with_attribute
 
 # Beispiel XML
-xml_string = """
-<root>
-    <element1 eID="1">
-        <subelement1>eID 1</subelement1>
-    </element1>
-    <element2>
-        <subelement2>eID 2</subelement2>
-    </element2>
-    <element3 eID="3">
-        <subelement3>eID 3</subelement3>
-    </element3>
-</root>
-"""
-
 with open("fedlex.xml") as f:
     xml_content = f.read().encode()
 
@@ -44,9 +31,9 @@ xmlparser = muzzle.XMLParser(namespaces)
 xml = xmlparser.parse(xml_content)
 
 
-uri_base = xmlparser.find(xml, './/akn:FRBRuri')
-uri_value = uri_base.attrib['value']
-print(f"URI: {uri_value}")
+frbr_nr = xmlparser.find(xml, './/akn:FRBRnumber').attrib['value']
+uri_base = xmlparser.find(xml, './/akn:FRBRuri').attrib['value']
+print(f"URI: {uri_base}")
 
 # Attribute Name
 attribute_name = "eId"
@@ -59,13 +46,17 @@ elements = extract_elements_with_attribute(xml, attribute_name)
 json_content = {}
 for element in elements:
     for par in xmlparser.findall(element, './akn:content/akn:p'):
-        content_id = f"{uri_value}/{element.attrib['eId']}"
-        print(f"{content_id}")
+        uri = f"{uri_base}/{element.attrib['eId']}"
+        print(f"{uri}")
         print(par.text)
         print('')
-        json_content[content_id] = par.text
+        json_content[uri] = {
+            "text": par.text.strip(),
+            "comment": "",
+        }
 
-with open("content.json", "w") as fw:
+json_path = os.path.join('fedlex', f"{frbr_nr}.json")
+with open(json_path, "w") as fw:
     fw.write(json.dumps(json_content, indent=4))
 
 
