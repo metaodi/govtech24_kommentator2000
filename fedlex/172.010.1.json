@@ -1,1562 +1,1570 @@
 {
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_u1": {
-        "article_num": "Art.\u00a01",
-        "par_num": "",
-        "text": "(Art. 13, 16 Abs. 1 und 4, 17 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_1": {
-        "article_num": "Art.\u00a01",
-        "par_num": "1",
-        "text": "Die Sitzungen des Bundesrates finden in der Regel einmal jede Woche statt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_2": {
-        "article_num": "Art.\u00a01",
-        "par_num": "2",
-        "text": "Gesch\u00e4fte von wesentlicher Bedeutung oder von politischer Tragweite werden einzeln beraten und beschlossen. Gesch\u00e4fte von weit reichender Bedeutung k\u00f6nnen im Rahmen von Klausuren behandelt werden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_3": {
-        "article_num": "Art.\u00a01",
-        "par_num": "3",
-        "text": "Die \u00fcbrigen Gesch\u00e4fte k\u00f6nnen, wenn sie unbestritten sind, ohne Einzelberatung gesamthaft verabschiedet oder in einem schriftlichen Beschlussverfahren erledigt werden. Pr\u00e4sidialentscheide nach Artikel 26 Absatz 4 RVOG bleiben vorbehalten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_4": {
-        "article_num": "Art.\u00a01",
-        "par_num": "4",
-        "text": "Wenn es die Umst\u00e4nde erfordern und keine Zeit f\u00fcr die Durchf\u00fchrung einer Sitzung zur Verf\u00fcgung steht, kann der Bundesrat auch einzelne Gesch\u00e4fte nach Absatz\u00a02 schriftlich oder mit anderen Mitteln verhandeln. Diese Beschl\u00fcsse sind denjenigen in den Sitzungen gleichgestellt. Pr\u00e4sidialentscheide nach Artikel 26 Abs\u00e4tze 1\u20133 RVOG bleiben vorbehalten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_5": {
-        "article_num": "Art.\u00a01",
-        "par_num": "5",
-        "text": "Die Beschl\u00fcsse werden f\u00fcr jedes Gesch\u00e4ft schriftlich festgehalten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_2/para_u1": {
-        "article_num": "Art.\u00a02",
-        "par_num": "",
-        "text": "(Art. 25 Abs. 2 Bst. a, 32 Bst. b und 33 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_2/para_1": {
-        "article_num": "Art.\u00a02",
-        "par_num": "1",
-        "text": "Mit der Gesch\u00e4ftsplanung wird sichergestellt, dass die Gesch\u00e4fte im Bundesrat entsprechend ihrer Bedeutung und Dringlichkeit behandelt werden k\u00f6nnen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_2/para_2": {
-        "article_num": "Art.\u00a02",
-        "par_num": "2",
-        "text": "Die Bundespr\u00e4sidentin oder der Bundespr\u00e4sident legt mit der Bundeskanzlei und den Departementen die wichtigsten Gesch\u00e4fte und Themenschwerpunkte f\u00fcr ein Quartal oder Semester fest.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_u1": {
-        "article_num": "Art.\u00a03",
-        "par_num": "",
-        "text": "(Art. 14, 15, 17 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_1": {
-        "article_num": "Art.\u00a03",
-        "par_num": "1",
-        "text": "Der Bundesrat fasst seine Beschl\u00fcsse in der Regel gest\u00fctzt auf schriftliche Antr\u00e4ge und nach abgeschlossenem Mitberichtsverfahren (Art. 5).",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_2": {
-        "article_num": "Art.\u00a03",
-        "par_num": "2",
-        "text": "Das Antragsrecht steht den Mitgliedern des Bundesrates sowie, f\u00fcr die Gesch\u00e4fte der Bundeskanzlei, der Bundeskanzlerin oder dem Bundeskanzler zu.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_3": {
-        "article_num": "Art.\u00a03",
-        "par_num": "3",
-        "text": "Soweit das Bundesrecht andere Beh\u00f6rden oder Organe bezeichnet, die dem Bundesrat Gesch\u00e4fte vorlegen oder Antr\u00e4ge unterbreiten k\u00f6nnen, geschieht dies \u00fcber die Bundeskanzlei oder das Departement, das den engsten Sachbezug zum betreffenden Gesch\u00e4ft aufweist.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_4": {
-        "article_num": "Art.\u00a03",
-        "par_num": "4",
-        "text": "Der Bundesrat f\u00fchrt Aussprachen insbesondere zu Gesch\u00e4ften von weit reichender Bedeutung durch. Er trifft bei Bedarf Zwischenentscheide, legt Grundz\u00fcge einer L\u00f6sung fest und erteilt dem zust\u00e4ndigen Departement oder der Bundeskanzlei Anweisungen zur Bearbeitung des Gesch\u00e4fts.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_5": {
-        "article_num": "Art.\u00a03",
-        "par_num": "5",
-        "text": "Die Departemente oder die Bundeskanzlei k\u00f6nnen dem Bundesrat jederzeit ohne formellen Antrag Informationsnotizen \u00fcber wichtige Vorg\u00e4nge und T\u00e4tigkeiten in ihrem Aufgabenbereich zuleiten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_4/para_1": {
-        "article_num": "Art.\u00a04",
-        "par_num": "1",
-        "text": "Bei der Vorbereitung von Antr\u00e4gen l\u00e4dt das federf\u00fchrende Amt die mitinteressierten Verwaltungseinheiten unter Ansetzung angemessener Fristen zur Stellungnahme ein. In begr\u00fcndeten Ausnahmef\u00e4llen kann auf die \u00c4mterkonsultation verzichtet oder kann diese auf einen engen Adressatenkreis beschr\u00e4nkt werden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_4/para_1bis": {
-        "article_num": "Art.\u00a04",
-        "par_num": "1bis",
-        "text": "Bei vertraulichen und geheimen Gesch\u00e4ften des Bundesrates sind zu wichtigen und strittigen rechtlichen Fragen nach M\u00f6glichkeit vor der Sitzung des Bundesrates die f\u00fcr die vorg\u00e4ngige rechtliche Pr\u00fcfung zust\u00e4ndigen Verwaltungseinheiten zu konsultieren.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_4/para_2": {
-        "article_num": "Art.\u00a04",
-        "par_num": "2",
-        "text": "Differenzen werden so weit wie m\u00f6glich in der \u00c4mterkonsultation bereinigt; das federf\u00fchrende Departement erstattet dem Bundesrat dar\u00fcber Bericht.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_4/para_3": {
-        "article_num": "Art.\u00a04",
-        "par_num": "3",
-        "text": "Als mitinteressiert gelten die Verwaltungseinheiten, die einen fachlichen Bezug zum Gesch\u00e4ft haben oder die f\u00fcr die Beurteilung finanzieller, rechtlicher oder formeller Aspekte zust\u00e4ndig sind.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5/para_u1": {
-        "article_num": "Art.\u00a05",
-        "par_num": "",
-        "text": "(Art. 15 und 33 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5/para_1": {
-        "article_num": "Art.\u00a05",
-        "par_num": "1",
-        "text": "Das Mitberichtsverfahren dient der Entscheidvorbereitung auf Stufe Bundesrat. Ziel des Verfahrens ist es, dass sich der Bundesrat in den Verhandlungen auf grunds\u00e4tzliche Aspekte konzentrieren kann.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5/para_1bis": {
-        "article_num": "Art.\u00a05",
-        "par_num": "1bis",
-        "text": "Das Mitberichtsverfahren beginnt mit der Unterzeichnung des Antrags durch das federf\u00fchrende Departement.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5/para_2": {
-        "article_num": "Art.\u00a05",
-        "par_num": "2",
-        "text": "Das federf\u00fchrende Departement reicht der Bundeskanzlei den unterzeichneten Antrag rechtzeitig zur Durchf\u00fchrung des Mitberichtsverfahrens ein.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_a/para_1": {
-        "article_num": "Art.\u00a05",
-        "par_num": "1",
-        "text": "\u00dcber Gesuche von Ratsmitgliedern und von parlamentarischen Kommissionen um Informationen nach den Artikeln 7 beziehungsweise 150 des Parlamentsgesetzes vom 13.\u00a0Dezember 2002",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_a/para_2": {
-        "article_num": "Art.\u00a05",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_a/para_3": {
-        "article_num": "Art.\u00a05",
-        "par_num": "3",
-        "text": "Gesuche um Einsichtnahme in Beschl\u00fcsse des Bundesrates werden von der Bundeskanzlei im Einvernehmen mit dem zust\u00e4ndigen Departement bearbeitet und beantwortet.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_b/para_1": {
-        "article_num": "Art. 5",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_b/para_2": {
-        "article_num": "Art. 5",
-        "par_num": "2",
-        "text": "Eine Konsultation nach Absatz 1 erfolgt auf Basis eines Mandatsentwurfs des Bundesrates. Im Fall dringlicher Konsultationen nach Artikel 152 Absatz 4 ParlG kann die Konsultation zu vorl\u00e4ufigen Positionen erfolgen, welche die Schweiz in Verhandlungen einzunehmen gedenkt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_c/para_1": {
-        "article_num": "Art.\u00a05",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_c/para_2": {
-        "article_num": "Art.\u00a05",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_c/para_3": {
-        "article_num": "Art.\u00a05",
-        "par_num": "3",
-        "text": "Der Bundesrat \u00fcbermittelt der Gesch\u00e4ftspr\u00fcfungsdelegation einmal j\u00e4hrlich die Liste nach Absatz\u00a02.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_6/para_u1": {
-        "article_num": "Art.\u00a06",
-        "par_num": "",
-        "text": "(Art. 8 Abs. 1 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_6/para_1": {
-        "article_num": "Art.\u00a06",
-        "par_num": "1",
-        "text": "Die Bundesverwaltung ist in die zentrale und die dezentrale Verwaltung gegliedert.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_6/para_2": {
-        "article_num": "Art.\u00a06",
-        "par_num": "2",
-        "text": "Personen und Organisationen des \u00f6ffentlichen oder privaten Rechts, die durch Gesetz geschaffen worden sind und \u00fcberwiegend Dienstleistungen mit Monopolcharakter oder Aufgaben der Wirtschafts- und der Sicherheitsaufsicht erf\u00fcllen, fallen unter den Bestand der dezentralen Bundesverwaltung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_6/para_3": {
-        "article_num": "Art.\u00a06",
-        "par_num": "3",
-        "text": "Externe Tr\u00e4ger von Verwaltungsaufgaben im Sinne von Artikel 2 Absatz 4 RVOG, die \u00fcberwiegend Dienstleistungen am Markt erbringen, fallen nicht unter den Bestand der Bundesverwaltung. Dies gilt auch f\u00fcr Organisationen und Personen des Privatrechts, die der Bund mit Finanzhilfen oder Abgeltungen nach Artikel 3 des Subventionsgesetzes vom 5. Oktober 1990",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_u1": {
-        "article_num": "Art.\u00a07",
-        "par_num": "",
-        "text": "(Art. 2 Abs. 1 und 2 sowie Art. 43 und 44 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_1": {
-        "article_num": "Art.\u00a07",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_2": {
-        "article_num": "Art.\u00a07",
-        "par_num": "2",
-        "text": "Verwaltungseinheiten nach Absatz 1 Buchstaben c und d k\u00f6nnen auch eine andere Bezeichnung tragen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_3": {
-        "article_num": "Art.\u00a07",
-        "par_num": "3",
-        "text": "Die Verwaltungseinheiten nach Absatz 1 Buchstaben b-d sind einem Departement unterstellt. Sie sind gegen\u00fcber dem Departement weisungsgebunden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_4": {
-        "article_num": "Art.\u00a07",
-        "par_num": "4",
-        "text": "Bundes\u00e4mter k\u00f6nnen zu Gruppen zusammengefasst werden, wenn die F\u00fchrbarkeit des Departements damit verbessert wird.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7_a/para_u1": {
-        "article_num": "Art.\u00a07",
-        "par_num": "",
-        "text": "(Art. 2 Abs. 3 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7_a/para_1": {
-        "article_num": "Art.\u00a07",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7_a/para_2": {
-        "article_num": "Art.\u00a07",
-        "par_num": "2",
-        "text": "Die Verwaltungseinheiten nach Absatz 1 Buchstaben a und b sind in der Erf\u00fcllung ihrer Aufgaben weisungsungebunden, soweit das Gesetz nichts anderes bestimmt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7_b/para": {
-        "article_num": "Art.\u00a07",
-        "par_num": "",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "In Anhang 2 sind die ausserparlamentarischen Kommissionen mit ihrer Zuordnung zu einem Departement abschliessend aufgelistet.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_a/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Ausserparlamentarische Kommissionen sind ihrer Funktion nach entweder Verwaltungs- oder Beh\u00f6rdenkommissionen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_a/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Verwaltungskommissionen haben beratende und vorbereitende Funktionen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_a/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "Beh\u00f6rdenkommissionen sind mit Entscheidungsbefugnissen ausgestattet.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_b/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Zum Mitglied einer ausserparlamentarischen Kommission ist w\u00e4hlbar, wer die Voraussetzungen f\u00fcr eine Anstellung in der Bundesverwaltung erf\u00fcllt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_b/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "F\u00fcr die Wahl besteht keine Altersbeschr\u00e4nkung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_c/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Frauen und M\u00e4nner m\u00fcssen in einer ausserparlamentarischen Kommission mindestens mit je 40 Prozent vertreten sein. L\u00e4ngerfristig ist eine parit\u00e4tische Vertretung beider Geschlechter anzustreben.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_c/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Betr\u00e4gt der Anteil der Frauen oder der M\u00e4nner weniger als 40 Prozent, so verlangt die Bundeskanzlei vom zust\u00e4ndigen Departement eine schriftliche Begr\u00fcndung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_c_bis/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "In den ausserparlamentarischen Kommissionen m\u00fcssen nach M\u00f6glichkeit deutsch-, franz\u00f6sisch- und italienischsprachige Personen vertreten sein. Eine Vertretung einer r\u00e4toromanischsprachigen Person ist anzustreben.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_c_bis/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Sind Deutsch, Franz\u00f6sisch und Italienisch nicht mit mindestens einer Person vertreten, so verlangt die Bundeskanzlei vom zust\u00e4ndigen Departement eine schriftliche Begr\u00fcndung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_d/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Eine \u00dcberschreitung der gesetzlichen H\u00f6chstzahl an Mitgliedern ausserparlamentarischer Kommissionen ist nur ausnahmsweise gestattet und begr\u00fcndungspflichtig.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_d/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Ausserparlamentarische Kommissionen werden durch Verf\u00fcgung des Bundesrates eingesetzt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_bis/para": {
-        "article_num": "Art.\u00a08",
-        "par_num": "",
-        "text": "Der Bundesrat w\u00e4hlt die Mitglieder. Er bestimmt deren Funktion, soweit diese sich nicht aus spezialrechtlichen Bestimmungen \u00fcber die Organisation der betreffenden Kommission ergibt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_1": {
-        "article_num": "Art. 8",
-        "par_num": "1",
-        "text": "Der Bundesrat kann f\u00fcr Mitglieder von Kommissionen, die mit Aufsichts- und Regulierungsaufgaben betraut sind, im Wahlbeschluss eine Karenzfrist ansetzen, wenn zu erwarten ist, dass der unmittelbare Wechsel eines Mitglieds nach dem Ausscheiden aus der Kommission in eine T\u00e4tigkeit bei Arbeits- oder Auftraggebern des beaufsichtigten oder regulierten Bereichs zu einem Interessenkonflikt f\u00fchrt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_2": {
-        "article_num": "Art. 8",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_3": {
-        "article_num": "Art. 8",
-        "par_num": "3",
-        "text": "Die Dauer der Karenzfrist betr\u00e4gt mindestens sechs und maximal zw\u00f6lf Monate.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_4": {
-        "article_num": "Art. 8",
-        "par_num": "4",
-        "text": "F\u00fcr die Karenzfrist kann eine Entsch\u00e4digung festgelegt werden. Sie entspricht nach Massgabe der im Einzelfall zu erwartenden wirtschaftlichen Beeintr\u00e4chtigung maximal der bisherigen Entsch\u00e4digung, wobei s\u00e4mtliche f\u00fcr diese Zeit erhaltenen Eink\u00fcnfte, Entsch\u00e4digungen und Vorsorgeleistungen anzurechnen sind.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_5": {
-        "article_num": "Art. 8",
-        "par_num": "5",
-        "text": "Wer eine Karenzfristentsch\u00e4digung erh\u00e4lt, ist verpflichtet, die w\u00e4hrend der Karenzfrist erhaltenen Eink\u00fcnfte, Entsch\u00e4digungen und Vorsorgeleistungen dem zust\u00e4ndigen Departement zu melden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_6": {
-        "article_num": "Art. 8",
-        "par_num": "6",
-        "text": "Zu Unrecht bezogene Karenzfristentsch\u00e4digungen m\u00fcssen zur\u00fcckerstattet werden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Das Berufsgeheimnis im Sinne des Strafgesetzbuches",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "Das Kommissionsmitglied meldet jede \u00c4nderung der Interessenbindungen w\u00e4hrend der Amtsdauer unverz\u00fcglich dem zust\u00e4ndigen Departement. Dieses aktualisiert das Verzeichnis nach Artikel 8",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f/para_4": {
-        "article_num": "Art.\u00a08",
-        "par_num": "4",
-        "text": "Das Kommissionsmitglied, das seine Interessenbindungen anl\u00e4sslich der Wahl nicht vollst\u00e4ndig offengelegt oder \u00c4nderungen der Interessenbindungen w\u00e4hrend der Amtsdauer nicht gemeldet hat und dies auch nach entsprechender Aufforderung durch die zust\u00e4ndige Beh\u00f6rde unterl\u00e4sst, kann abberufen werden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f_bis/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Kommissionsmitglieder d\u00fcrfen nicht \u00f6ffentlich bekannte Informationen, die sie im Rahmen ihrer Kommissionst\u00e4tigkeit erlangen, nur f\u00fcr ihre Kommissionst\u00e4tigkeit verwenden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f_bis/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Sie d\u00fcrfen Informationen nach Absatz 1 insbesondere nicht verwenden, um f\u00fcr sich oder andere einen Vorteil zu erlangen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_g/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Die Amtsdauer der Mitglieder ausserparlamentarischer Kommissionen betr\u00e4gt vier Jahre. Sie richtet sich nach der Legislaturperiode des Nationalrates. Sie beginnt am 1.\u00a0Januar und endet am 31. Dezember.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_g/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Das Mandat von Mitgliedern, die w\u00e4hrend der Amtsdauer gew\u00e4hlt werden, endet mit deren Ablauf.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_h/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Der Bundesrat nimmt f\u00fcr jede neue Amtsdauer der ausserparlamentarischen Kommissionen Gesamterneuerungswahlen vor.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_h/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Die Bundeskanzlei koordiniert die Gesamterneuerungswahlen. Sie erl\u00e4sst dazu die entsprechenden Weisungen und gibt diese den Gesch\u00e4ftspr\u00fcfungskommissionen der eidgen\u00f6ssischen R\u00e4te bekannt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_h/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "Nach den Gesamterneuerungswahlen erstattet die Bundeskanzlei dem Bundesrat zuhanden der eidgen\u00f6ssischen R\u00e4te Bericht \u00fcber die Zusammensetzung der ausserparlamentarischen Kommissionen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Die Amtszeit der Mitglieder ausserparlamentarischer Kommissionen ist auf insgesamt zw\u00f6lf Jahre beschr\u00e4nkt; sie endet mit dem Ablauf des entsprechenden Kalenderjahres.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Der Bundesrat kann in begr\u00fcndeten Einzelf\u00e4llen die Amtszeit auf h\u00f6chstens 16\u00a0Jahre verl\u00e4ngern.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "Die Amtszeitbeschr\u00e4nkung gilt nicht f\u00fcr Bundesangestellte, deren Mitgliedschaft f\u00fcr die Aufgabenerf\u00fcllung erforderlich ist oder in einem anderen Erlass zwingend vorgeschrieben wird.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i_bis/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Jeder ausserparlamentarischen Kommission steht ein Sekretariat zur Verf\u00fcgung, das von einer Stelle in der zentralen Bundesverwaltung gef\u00fchrt wird.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i_bis/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Die Leiterin oder der Leiter und die \u00fcbrigen Mitarbeiterinnen und Mitarbeiter des Sekretariats unterstehen dem f\u00fcr die zentrale Bundesverwaltung geltenden Bundespersonalrecht.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i_bis/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "Vorbehalten bleiben abweichende spezialrechtliche Bestimmungen oder Bestimmungen in der Einsetzungsverf\u00fcgung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i_ter/para": {
-        "article_num": "Art.\u00a08",
-        "par_num": "",
-        "text": "Kommissionen, die gem\u00e4ss ihrer Einsetzungsverf\u00fcgung ohne R\u00fccksprache mit der zust\u00e4ndigen Beh\u00f6rde kommunizieren, achten bei der Information der \u00d6ffentlichkeit zu politischen Fragen auf die gebotene Zur\u00fcckhaltung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Der Bundesrat w\u00e4hlt nach Massgabe der Organisationserlasse die Mitglieder der Leitungsorgane von \u00f6ffentlich-rechtlichen Organisationen des Bundes, insbesondere die Mitglieder des Verwaltungs- oder Institutsrats von Anstalten des Bundes.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j/para_1bis": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1bis",
-        "text": "Soweit die Wahl einem andern Wahlorgan obliegt oder ein Organisationserlass des \u00f6ffentlichen oder privaten Rechts die Vertretung des Bundes in einem Leitungsorgan vorsieht, bestimmt oder w\u00e4hlt der Bundesrat die Mitglieder des entsprechenden Leitungsorgans, insbesondere die von der Generalversammlung zu w\u00e4hlenden und die nach den Artikeln 762 und 926 des Obligationenrechts",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Der Bundesrat erstellt f\u00fcr jede Organisation ein Anforderungsprofil mit den pers\u00f6nlichen und fachlichen Voraussetzungen einer Vertretung. Er \u00fcbt sein Wahl- und Bestimmungsrecht gest\u00fctzt auf dieses Anforderungsprofil aus.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j_bis/para_1": {
-        "article_num": "Art. 8",
-        "par_num": "1",
-        "text": "Der Bundesrat kann f\u00fcr Mitglieder von Verwaltungs- und Institutsr\u00e4ten von Anstalten des Bundes, die mit Aufsichts- und Regulierungsaufgaben betraut sind, im Wahlbeschluss eine Karenzfrist ansetzen, wenn zu erwarten ist, dass der unmittelbare Wechsel eines Mitgliedes nach dem Ausscheiden aus dem Verwaltungs- und dem Institutsrat in eine T\u00e4tigkeit bei Arbeits- oder Auftraggebern des beaufsichtigten oder regulierten Bereichs zu einem Interessenkonflikt f\u00fchrt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j_bis/para_2": {
-        "article_num": "Art. 8",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j_bis/para_3": {
-        "article_num": "Art. 8",
-        "par_num": "3",
-        "text": "Artikel 8",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Die Bundeskanzlei ver\u00f6ffentlicht unter Mitwirkung der Departemente in elektronischer Form ein Verzeichnis der Mitglieder ausserparlamentarischer Kommissionen, der Mitglieder der Leitungsorgane von Organisationen des Bundes sowie der Vertreterinnen und Vertreter des Bundes in Organisationen des \u00f6ffentlichen oder privaten Rechts.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "\u2026",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_4": {
-        "article_num": "Art.\u00a08",
-        "par_num": "4",
-        "text": "Die Daten sind nach erfolgter Wahl bis zum Ausscheiden der Person abrufbar.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_5": {
-        "article_num": "Art.\u00a08",
-        "par_num": "5",
-        "text": "Sie k\u00f6nnen zu statistischen Zwecken historisiert werden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_l/para": {
-        "article_num": "Art.\u00a08",
-        "par_num": "",
-        "text": "Anspruch auf eine Entsch\u00e4digung im Sinne dieses Abschnittes hat die Person, die als Mitglied oder als Ersatzmitglied einer ausserparlamentarischen Kommission gew\u00e4hlt wurde und f\u00fcr diese Kommission t\u00e4tig ist.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_m/para": {
-        "article_num": "Art.\u00a08",
-        "par_num": "",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_n/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_n/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Die Zuteilung der gesellschaftsorientierten Kommissionen zu den Entsch\u00e4digungskategorien ist in Anhang 2 Ziffer 1 geregelt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Die Mitglieder und die Ersatzmitglieder gesellschaftsorientierter Kommissionen haben f\u00fcr ihre Kommissionst\u00e4tigkeit Anspruch auf ein Taggeld.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Es gelten die in Anhang 2 Ziffer 1 aufgef\u00fchrten Ans\u00e4tze. Diese gelten f\u00fcr die Vizepr\u00e4sidentin oder den Vizepr\u00e4sidenten und f\u00fcr die \u00fcbrigen Mitglieder.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "Die Pr\u00e4sidentin oder der Pr\u00e4sident erh\u00e4lt ein um 25\u00a0Prozent erh\u00f6htes Taggeld. Die zust\u00e4ndige Beh\u00f6rde kann der Pr\u00e4sidentin oder dem Pr\u00e4sidenten in begr\u00fcndeten Ausnahmef\u00e4llen h\u00f6chstens das doppelte Taggeld ausrichten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_3bis": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3bis",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_4": {
-        "article_num": "Art.\u00a08",
-        "par_num": "4",
-        "text": "Ist ein Mitglied ausserhalb von Sitzungen und Augenscheinen durch Aktenstudium, Berichte oder Vorbereitung von Referaten aussergew\u00f6hnlich beansprucht, so kann die zust\u00e4ndige Beh\u00f6rde ihm pro Jahr h\u00f6chstens 16 zus\u00e4tzliche Taggelder ausrichten. Erfordert ein in der Spezialgesetzgebung festgelegter Auftrag einen h\u00f6heren Aufwand, so kann die zust\u00e4ndige Beh\u00f6rde im Einzelfall bewilligen, dass mehr als 16 zus\u00e4tzliche Taggelder ausgerichtet werden. Taggelder, die \u00fcber die 16\u00a0zus\u00e4tzlichen Taggelder hinaus ausgerichtet werden, sind im Rahmen der Berichterstattung \u00fcber die Gesamterneuerungswahlen nach Artikel 8",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_5": {
-        "article_num": "Art.\u00a08",
-        "par_num": "5",
-        "text": "Muss ein Kommissionsmitglied seinen Wohnort am Tag vor der Sitzung verlassen oder kann es erst am Tag nach der Sitzung dorthin zur\u00fcckkehren, so richtet ihm die zust\u00e4ndige Beh\u00f6rde f\u00fcr den Reisetag ein halbes Taggeld aus.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_6": {
-        "article_num": "Art.\u00a08",
-        "par_num": "6",
-        "text": "F\u00fcr ein und denselben Tag d\u00fcrfen nicht mehrere Taggelder bezogen werden, auch wenn mehrere, unter sich verschiedene oder getrennt zu berechnende Verrichtungen vorgenommen worden sind.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_7": {
-        "article_num": "Art.\u00a08",
-        "par_num": "7",
-        "text": "Die Ans\u00e4tze unterliegen nicht dem Teuerungsausgleich.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_p/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_p/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Die Zuteilung der marktorientierten Kommissionen zu den Entsch\u00e4digungskategorien ist in Anhang 2 Ziffer 2 geregelt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Die Mitglieder marktorientierter Kommissionen haben f\u00fcr ihre Kommissionst\u00e4tigkeit Anspruch auf eine pauschale Entsch\u00e4digung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Es gelten die in Anhang 2 Ziffer 2 aufgef\u00fchrten Ans\u00e4tze.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "In diesen Ans\u00e4tzen sind alle Kosten mit Ausnahme des Auslagenersatzes enthalten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_4": {
-        "article_num": "Art.\u00a08",
-        "par_num": "4",
-        "text": "Die Ans\u00e4tze gelten f\u00fcr ein Vollzeitpensum; als Berechnungsgrundlage gelten 220 Arbeitstage pro Jahr. Bei Teilzeitpensen wird der Besch\u00e4ftigungsgrad im Wahlbeschluss festgelegt, soweit er sich nicht aus den Vorschriften \u00fcber die Organisation der betreffenden Kommission ergibt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_5": {
-        "article_num": "Art.\u00a08",
-        "par_num": "5",
-        "text": "Die Ans\u00e4tze unterliegen nicht dem Teuerungsausgleich.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_r/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Der Ersatz von Auslagen f\u00fcr die Mitglieder und die Ersatzmitglieder ausserparlamentarischer Kommissionen richtet sich nach den entsprechenden Bestimmungen f\u00fcr das Bundespersonal.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_r/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Mitglieder, denen die Kommissionsmitarbeit einen besonderen organisatorischen Aufwand f\u00fcr die Betreuung von Kindern oder pflegebed\u00fcrftigen Angeh\u00f6rigen verursacht, k\u00f6nnen bei der zust\u00e4ndigen Beh\u00f6rde daf\u00fcr Auslagenersatz beantragen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_s/para_1": {
-        "article_num": "Art.\u00a08",
-        "par_num": "1",
-        "text": "Mitglieder und Ersatzmitglieder ausserparlamentarischer Kommissionen, die in einem Arbeitsverh\u00e4ltnis mit der zentralen oder der dezentralen Bundesverwaltung stehen, haben keinen Anspruch auf eine Entsch\u00e4digung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_s/para_2": {
-        "article_num": "Art.\u00a08",
-        "par_num": "2",
-        "text": "Die zust\u00e4ndige Beh\u00f6rde kann Ausnahmen bewilligen, wenn die Mitgliedschaft in der Kommission nicht in Zusammenhang mit dem Arbeitsverh\u00e4ltnis zur zentralen oder dezentralen Bundesverwaltung steht.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_s/para_3": {
-        "article_num": "Art.\u00a08",
-        "par_num": "3",
-        "text": "Die Entsch\u00e4digungen f\u00fcr Dienstreisen, Mahlzeiten und \u00dcbernachtungen richten sich nach den f\u00fcr diese Mitglieder geltenden Bestimmungen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_t/para": {
-        "article_num": "Art.\u00a08",
-        "par_num": "",
-        "text": "Mitglieder ausserparlamentarischer Kommissionen k\u00f6nnen nur aufgrund der f\u00fcr ihre Kommission geltenden Ans\u00e4tze entsch\u00e4digt werden. Eine zus\u00e4tzliche Entsch\u00e4digung f\u00fcr T\u00e4tigkeiten, die im Zusammenhang mit dem Auftrag der Kommission stehen, ist ausgeschlossen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_11/para": {
-        "article_num": "Art.\u00a011",
-        "par_num": "",
-        "text": "(Art. 3 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_12/para_u1": {
-        "article_num": "Art.\u00a012",
-        "par_num": "",
-        "text": "(Art. 8, 35, 36 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_12/para_1": {
-        "article_num": "Art.\u00a012",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_12/para_2": {
-        "article_num": "Art.\u00a012",
-        "par_num": "2",
-        "text": "Im \u00dcbrigen gelten insbesondere die Personalgesetzgebung und das personalpolitische Leitbild des Bundesrates.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_13/para_u1": {
-        "article_num": "Art.\u00a013",
-        "par_num": "",
-        "text": "(Art. 47 Abs. 1 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_13/para_1": {
-        "article_num": "Art.\u00a013",
-        "par_num": "1",
-        "text": "Massgebend f\u00fcr die Zuordnung der Zust\u00e4ndigkeit zum Entscheid nach Artikel 47 Absatz 1 RVOG ist die Bedeutung eines Gesch\u00e4ftes.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_13/para_2": {
-        "article_num": "Art.\u00a013",
-        "par_num": "2",
-        "text": "Die Zuordnung erfolgt in der Regel an die Einheit, bei der die erforderliche politische und fachliche Kompetenz konzentriert ist. Die Zuordnung an Einheiten unterhalb der Amtsstufe erfolgt nur in begr\u00fcndeten Ausnahmef\u00e4llen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_13/para_3": {
-        "article_num": "Art.\u00a013",
-        "par_num": "3",
-        "text": "Im Einzelfall wird ein Gesch\u00e4ft der vorgesetzten Einheit zum Entscheid oder zur Erteilung einer Weisung unterbreitet, wenn seine besondere Bedeutung oder Komplexit\u00e4t dies erfordert.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_14/para_1": {
-        "article_num": "Art.\u00a014",
-        "par_num": "1",
-        "text": "Die Verwaltungseinheiten sind zur Zusammenarbeit verpflichtet. Sie unterst\u00fctzen und informieren sich gegenseitig.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_14/para_2": {
-        "article_num": "Art.\u00a014",
-        "par_num": "2",
-        "text": "Sie koordinieren ihre T\u00e4tigkeiten und stimmen diese auf die Gesamtpolitik des Bundesrates ab.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_14/para_3": {
-        "article_num": "Art.\u00a014",
-        "par_num": "3",
-        "text": "Sie erteilen anderen Verwaltungseinheiten die Ausk\u00fcnfte, die f\u00fcr deren gesetzliche Aufgabenerf\u00fcllung erforderlich sind.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15/para_1": {
-        "article_num": "Art.\u00a015",
-        "par_num": "1",
-        "text": "Die Verwaltungseinheiten stellen zur Vorbereitung ihrer Entscheide die Mitwirkung aller mitinteressierten Einheiten sicher.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15/para_2": {
-        "article_num": "Art.\u00a015",
-        "par_num": "2",
-        "text": "Dazu laden sie die mitinteressierten Einheiten zur schriftlichen Stellungnahme ein, es sei denn, ein anderer Erlass sieht eine andere Form der Mitwirkung vor.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15/para_2bis": {
-        "article_num": "Art.\u00a015",
-        "par_num": "2bis",
-        "text": "F\u00fcr die Mitwirkung bei der Vorbereitung von rechtsetzenden Texten gelten sinngem\u00e4ss die Bestimmungen \u00fcber Bundesratsgesch\u00e4fte (Art. 4).",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15/para_3": {
-        "article_num": "Art.\u00a015",
-        "par_num": "3",
-        "text": "Ist eine Zustimmung erforderlich, werden Differenzen von den beteiligten Einheiten selber bereinigt. Ausnahmsweise k\u00f6nnen diese eine Differenzbereinigung auf n\u00e4chsth\u00f6herer Ebene verlangen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15_a/para_1": {
-        "article_num": "Art.\u00a015",
-        "par_num": "1",
-        "text": "Ber\u00fchrt ein Vorhaben des Bundes wesentliche kantonale oder kommunale Interessen, so bezieht das zust\u00e4ndige Departement oder die Bundeskanzlei die zust\u00e4ndigen kantonalen Organe sowie, wenn angezeigt, die gesamtschweizerischen Dachverb\u00e4nde der Gemeinden, St\u00e4dte und Berggebiete, angemessen ein.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15_a/para_2": {
-        "article_num": "Art.\u00a015",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_16/para_u1": {
-        "article_num": "Art.\u00a016",
-        "par_num": "",
-        "text": "(Art. 53 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_16/para_1": {
-        "article_num": "Art.\u00a016",
-        "par_num": "1",
-        "text": "Die Generalsekret\u00e4renkonferenz ist das oberste Koordinationsorgan. Sie tr\u00e4gt zu einer vorausschauenden, wirksamen und koh\u00e4renten Verwaltungst\u00e4tigkeit bei. Sie zieht weitere Personen oder Stellen bei.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_16/para_2": {
-        "article_num": "Art.\u00a016",
-        "par_num": "2",
-        "text": "Sie wirkt mit bei der Planung, Vorbereitung und beim Vollzug von Bundesratsgesch\u00e4ften sowie bei der Bereinigung von Differenzen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_16/para_3": {
-        "article_num": "Art.\u00a016",
-        "par_num": "3",
-        "text": "Der Bundesrat regelt ihre Organisation und ihre Arbeitsweise in einem Reglement.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_u1": {
-        "article_num": "Art.\u00a017",
-        "par_num": "",
-        "text": "(Art. 6 Abs. 1, 25 Abs. 2 Bst. a, 32 Bst. a, 36 Abs. 1, 51, 52 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_1": {
-        "article_num": "Art.\u00a017",
-        "par_num": "1",
-        "text": "Der Bundesrat legt Schwergewichte, Ziele und Mittel der Planungen fest.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_2": {
-        "article_num": "Art.\u00a017",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_3": {
-        "article_num": "Art.\u00a017",
-        "par_num": "3",
-        "text": "Die Sach- und die Finanzplanungen werden zeitlich und inhaltlich so weit als m\u00f6glich aufeinander abgestimmt. Die einzelnen Aufgabengebiete werden in Politikbereiche zusammengefasst.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_4": {
-        "article_num": "Art.\u00a017",
-        "par_num": "4",
-        "text": "Die Bundeskanzlei bereitet die Sachpl\u00e4ne nach Absatz 2 Buchstabe a vor. Die Eidgen\u00f6ssische Finanzverwaltung (EFV)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_5": {
-        "article_num": "Art.\u00a017",
-        "par_num": "5",
-        "text": "F\u00fcr die untergeordneten Verwaltungseinheiten sind die Pl\u00e4ne des Bundesrates und der Departemente verbindlich.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_18/para_bis": {
-        "article_num": "Art.\u00a018",
-        "par_num": "bis",
-        "text": "(Art. 45 GVG",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_18/para_1": {
-        "article_num": "Art.\u00a018",
-        "par_num": "1",
-        "text": "Die Richtlinien der Regierungspolitik geben einen umfassenden politischen Orientierungsrahmen f\u00fcr die Regierungst\u00e4tigkeit in einer Legislaturperiode.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_18/para_2": {
-        "article_num": "Art.\u00a018",
-        "par_num": "2",
-        "text": "Sie ziehen Bilanz \u00fcber die vergangene Legislaturperiode.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_18/para_3": {
-        "article_num": "Art.\u00a018",
-        "par_num": "3",
-        "text": "Sie legen die Ziele und Wirkungen sowie die priorit\u00e4ren Massnahmen fest und bezeichnen die Bereiche, wo das staatliche Leistungsangebot \u00fcberpr\u00fcft werden muss oder abgebaut werden kann.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_19/para_u1": {
-        "article_num": "Art.\u00a019",
-        "par_num": "",
-        "text": "(Art. 51 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_19/para_1": {
-        "article_num": "Art.\u00a019",
-        "par_num": "1",
-        "text": "Die Jahresziele des Bundesrates umschreiben die Grundz\u00fcge der Regierungst\u00e4tigkeit f\u00fcr das n\u00e4chste Jahr, bestimmen Ziele und Massnahmen und bezeichnen die zuhanden der eidgen\u00f6ssischen R\u00e4te zu verabschiedenden Gesch\u00e4fte.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_19/para_2": {
-        "article_num": "Art.\u00a019",
-        "par_num": "2",
-        "text": "Die Jahresziele bilden eine Grundlage f\u00fcr die Gesch\u00e4ftsplanung des Bundesrates nach Artikel 2, f\u00fcr das Controlling nach Artikel 21, f\u00fcr die Aufsicht nach Abschnitt\u00a05 sowie f\u00fcr die j\u00e4hrliche Gesch\u00e4ftsberichterstattung nach Artikel\u00a045 des Gesch\u00e4ftsverkehrsgesetzes vom 23. M\u00e4rz 1962",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_20/para_u1": {
-        "article_num": "Art.\u00a020",
-        "par_num": "",
-        "text": "(Art. 51 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_20/para_1": {
-        "article_num": "Art.\u00a020",
-        "par_num": "1",
-        "text": "Die Departemente und die Bundeskanzlei stimmen ihre Jahresziele auf die Planungen des Bundesrates ab und unterbreiten sie dem Bundesrat zur Kenntnisnahme.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_20/para_2": {
-        "article_num": "Art.\u00a020",
-        "par_num": "2",
-        "text": "Sie erstatten im Rahmen der j\u00e4hrlichen Gesch\u00e4ftsberichterstattung des Bundesrates nach Artikel 45 GVG",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_21/para_1": {
-        "article_num": "Art.\u00a021",
-        "par_num": "1",
-        "text": "Das Controlling ist ein F\u00fchrungsinstrument zur prozessbegleitenden Steuerung der Zielerreichung auf allen Stufen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_21/para_2": {
-        "article_num": "Art.\u00a021",
-        "par_num": "2",
-        "text": "Der Bundesrat wird bei seinem Controlling durch die Bundeskanzlei und das Eidgen\u00f6ssische Finanzdepartement unterst\u00fctzt. Diese arbeiten dabei mit den Departementen zusammen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_21/para_3": {
-        "article_num": "Art.\u00a021",
-        "par_num": "3",
-        "text": "Die Departemente sind f\u00fcr das Controlling in ihrem Bereich zust\u00e4ndig. Sie stimmen ihr Controlling auf das Controlling des Bundesrates ab.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22/para_1": {
-        "article_num": "Art.\u00a022",
-        "par_num": "1",
-        "text": "Die Verwaltungseinheiten f\u00fchren den Nachweis \u00fcber die eigene Gesch\u00e4ftst\u00e4tigkeit aufgrund einer systematischen Gesch\u00e4ftsverwaltung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22/para_2": {
-        "article_num": "Art.\u00a022",
-        "par_num": "2",
-        "text": "Sie setzen zu diesem Zweck elektronische Gesch\u00e4ftsverwaltungssysteme nach der GEVER-Verordnung vom 3. April 2019",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_a/para_u1": {
-        "article_num": "Art.\u00a022",
-        "par_num": "",
-        "text": "(Art. 38a RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_a/para_1": {
-        "article_num": "Art.\u00a022",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_a/para_2": {
-        "article_num": "Art.\u00a022",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_b/para_u1": {
-        "article_num": "Art.\u00a022",
-        "par_num": "",
-        "text": "(Art. 38",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_b/para_1": {
-        "article_num": "Art.\u00a022",
-        "par_num": "1",
-        "text": "Die Departemente oder die von ihnen bezeichneten Stellen legen fest, wann und in welcher Form die Verwaltungseinheiten \u00fcber die Zielerreichung und gegebenenfalls \u00fcber Korrekturmassnahmen berichten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_b/para_2": {
-        "article_num": "Art.\u00a022",
-        "par_num": "2",
-        "text": "Die EFV erl\u00e4sst Weisungen zur \u00dcberpr\u00fcfung der Struktur und der Ziele der Leistungsgruppen nach Artikel 38",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_c/para": {
-        "article_num": "Art.\u00a022",
-        "par_num": "",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_23/para_1": {
-        "article_num": "Art.\u00a023",
-        "par_num": "1",
-        "text": "Die Bundeskanzlei ist, in Zusammenarbeit mit den Departementen, zust\u00e4ndig f\u00fcr die Information der Bundesversammlung, der Kantone und der \u00d6ffentlichkeit \u00fcber Entscheide, Absichten und Vorkehren des Bundesrates. Sie sorgt f\u00fcr die n\u00f6tige Planung und erarbeitet die Grunds\u00e4tze f\u00fcr die Kommunikationspolitik des Bundesrates.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_23/para_2": {
-        "article_num": "Art.\u00a023",
-        "par_num": "2",
-        "text": "Die Departemente und die Bundeskanzlei tragen die Verantwortung f\u00fcr die interne und externe Information und Kommunikation \u00fcber ihre Gesch\u00e4fte. Sie stellen diese in den Gesamtzusammenhang der Kommunikationspolitik des Bundesrates. Sie regeln die Informationsaufgaben der ihnen untergeordneten Einheiten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_23/para_3": {
-        "article_num": "Art.\u00a023",
-        "par_num": "3",
-        "text": "Die Bundeskanzlei ist, in Zusammenarbeit mit der Konferenz der Informationsdienste, f\u00fcr die Koordination der Information und Kommunikation zust\u00e4ndig und kann zu diesem Zweck Weisungen erlassen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_23/para_4": {
-        "article_num": "Art.\u00a023",
-        "par_num": "4",
-        "text": "Bei Bedarf kann der Bundesrat die Information und Kommunikation bei der Bundespr\u00e4sidentin oder dem Bundespr\u00e4sidenten, bei der Bundeskanzlei, einem Departement oder einer anderen bezeichneten Stelle zentralisieren. Die bezeichnete Stelle erh\u00e4lt entsprechende Weisungsbefugnisse.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24/para_u1": {
-        "article_num": "Art.\u00a024",
-        "par_num": "",
-        "text": "(Art. 8 Abs. 3 und 4, 36 Abs. 3 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24/para_1": {
-        "article_num": "Art.\u00a024",
-        "par_num": "1",
-        "text": "Mit der Aufsicht stellen der Bundesrat, die Departemente und die Bundeskanzlei die Erf\u00fcllung der verfassungsm\u00e4ssigen und gesetzlichen Aufgaben sicher.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24/para_2": {
-        "article_num": "Art.\u00a024",
-        "par_num": "2",
-        "text": "Die Aufsicht \u00fcber die zentrale Bundesverwaltung ist umfassend. Sie richtet sich nach den in den Artikeln 11 und 12 aufgef\u00fchrten Grunds\u00e4tzen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24/para_3": {
-        "article_num": "Art.\u00a024",
-        "par_num": "3",
-        "text": "Die Aufsicht \u00fcber die dezentrale Bundesverwaltung sowie \u00fcber die Organisationen und Personen gem\u00e4ss Artikel\u00a02 Absatz\u00a04 RVOG wird in Gegenstand, Umfang und Grunds\u00e4tzen durch die Spezialgesetzgebung geregelt und richtet sich nach dem jeweiligen Grad der Autonomie.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_u1": {
-        "article_num": "Art.\u00a024",
-        "par_num": "",
-        "text": "(Art. 8 Abs. 4 und 5 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_1": {
-        "article_num": "Art.\u00a024",
-        "par_num": "1",
-        "text": "Der Bundesrat nimmt die Rolle des Eigners und die damit verbundene Aufsicht und Steuerung gegen\u00fcber den verselbstst\u00e4ndigten Einheiten nach Artikel\u00a08 Absatz\u00a05 RVOG gesamtheitlich wahr.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_2": {
-        "article_num": "Art.\u00a024",
-        "par_num": "2",
-        "text": "Das Departement mit dem engsten Sachbezug nimmt im Auftrag des Bundesrates die Aufsicht wahr, \u00fcbt die Eignerrechte aus und dient als Ansprechpartner f\u00fcr die Leitungsorgane der verselbstst\u00e4ndigten Einheiten. Bei verselbstst\u00e4ndigten Einheiten mit grosser Bedeutung f\u00fcr den Bundeshaushalt \u00fcbt es die Eignerrechte gemeinsam mit der EFV aus. Die Zuordnung der verselbstst\u00e4ndigten Einheiten zu den Departementen und die gemeinsame Aus\u00fcbung der Eignerrechte mit der EFV sind in Anhang\u00a03 aufgelistet.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_3": {
-        "article_num": "Art.\u00a024",
-        "par_num": "3",
-        "text": "Haben weitere Departemente und Verwaltungseinheiten einen Sachbezug zu verselbstst\u00e4ndigten Einheiten, so sind sie bei der Erf\u00fcllung der Aufgaben nach Absatz\u00a02 beizuziehen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_4\u00a0": {
-        "article_num": "Art.\u00a024",
-        "par_num": "4",
-        "text": "F\u00fcr die Erf\u00fcllung der Aufgaben nach Absatz 2 ist das Generalsekretariat des Departements zust\u00e4ndig. Das Departement kann die Zust\u00e4ndigkeit schriftlich an ein Staatssekretariat oder ein Bundesamt delegieren, wenn keine Interessenskonflikte bestehen, insbesondere bei der Regulierung, Fachaufsicht, Bestellung und Subventionierung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_5": {
-        "article_num": "Art.\u00a024",
-        "par_num": "5",
-        "text": "Die EFV erarbeitet die Grundlagen der Aufsicht und Steuerung der verselbstst\u00e4ndigten Einheiten des Bundes (Public Corporate Governance) und sorgt f\u00fcr die Koordination der Berichterstattung. Sie arbeitet dabei mit den betroffenen Departementen und Verwaltungseinheiten zusammen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_25/para_u1": {
-        "article_num": "Art.\u00a025",
-        "par_num": "",
-        "text": "(Art. 8 Abs. 3 und 4 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_25/para_1": {
-        "article_num": "Art.\u00a025",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_25/para_2": {
-        "article_num": "Art.\u00a025",
-        "par_num": "2",
-        "text": "Mit Kontrollen sind in der Regel besondere Stellen befasst, die von der kontrollierten Verwaltungseinheit unabh\u00e4ngig sind.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_26/para": {
-        "article_num": "Art.\u00a026",
-        "par_num": "",
-        "text": "(Art. 8 Abs. 3 und 4, 25 Abs. 2 Bst. c und d, 32 Bst. e RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27/para_u1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "(Art. 5 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Die Verwaltungseinheiten \u00fcberpr\u00fcfen ihre Aufgaben, Leistungen, Prozesse und Organisation periodisch und systematisch auf ihre Notwendigkeit und auf \u00dcbereinstimmung mit den Grunds\u00e4tzen von Artikel 11 und 12; sie veranlassen die entsprechenden Anpassungs- und Verzichtsmassnahmen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Die Generalsekret\u00e4renkonferenz wirkt koordinierend mit.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Die EFV koordiniert unter Einbezug",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_a/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Die Administrativuntersuchung ist ein spezielles Verfahren der Kontrolle nach den Artikeln 25 und 26, mit dem abgekl\u00e4rt wird, ob ein Sachverhalt vorliegt, der im \u00f6ffentlichen Interesse ein Einschreiten von Amtes wegen erfordert.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_a/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Die Administrativuntersuchung richtet sich nicht gegen bestimmte Personen. Die Disziplinaruntersuchung nach Artikel 98 der Bundespersonalverordnung vom 3. Juli 2001",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_b/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Eine Administrativuntersuchung darf weder Strafuntersuchungen noch Untersuchungen der parlamentarischen Aufsichtsorgane behindern.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_b/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Ist ein Verfahrenskonflikt absehbar, so sistiert die anordnende Stelle die Administrativuntersuchung oder bricht sie ab.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_c/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Die Departementsvorsteherinnen und Departementsvorsteher sowie die Bundeskanzlerin oder der Bundeskanzler ordnen in den ihnen unterstehenden Verwaltungseinheiten Administrativuntersuchungen an. Sie k\u00f6nnen diese Zust\u00e4ndigkeit an die ihnen unterstellten Verwaltungseinheiten delegieren.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_c/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Ist von einer Administrativuntersuchung mehr als ein Departement, einschliesslich die Bundeskanzlei, betroffen, so ordnet der Bundesrat die Untersuchung an.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_d/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_d/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Die Untersuchung kann Personen ausserhalb der Bundesverwaltung \u00fcbertragen werden. Eine solche Person handelt als Beauftragte der anordnenden Stelle.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_d/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Die Untersuchungsorgane k\u00f6nnen im Rahmen ihres Auftrages Weisungen, aber keine Verf\u00fcgungen erlassen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_d/para_4": {
-        "article_num": "Art.\u00a027",
-        "par_num": "4",
-        "text": "Die Bestimmungen \u00fcber den Ausstand nach Artikel 10 des Bundesgesetzes vom 20. Dezember 1968",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_e/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_e/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Dem Untersuchungsauftrag werden allf\u00e4llige Vorakten beigelegt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_f/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Die anordnende Stelle gibt den betroffenen Verwaltungsstellen die Er\u00f6ffnung der Administrativuntersuchung sowie deren Anlass und Zweck sowie das Untersuchungsorgan bekannt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_f/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Sie erl\u00e4sst die erforderlichen Weisungen \u00fcber Zutritts- und Einsichtsrechte der Untersuchungsorgane sowie \u00fcber die Auskunftspflicht der betroffenen Angestellten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Zur Feststellung des Sachverhaltes bedient sich das Untersuchungsorgan der Beweismittel nach Artikel 12 VwVG",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Die in die Administrativuntersuchung einbezogenen Beh\u00f6rden und Angestellten des Bundes sind verpflichtet, an der Feststellung des Sachverhaltes mitzuwirken.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Zeigt sich im Verlauf der Administrativuntersuchung, dass Informationen, die unter die Schweigepflicht fallen, aus anderen Departementen oder der Bundeskanzlei notwendig sind, so hat das Untersuchungsorgan vorg\u00e4ngig das Einverst\u00e4ndnis des Vorstehers oder der Vorsteherin des Departements oder des Bundeskanzlers oder der Bundeskanzlerin einzuholen. In den anderen F\u00e4llen gilt Artikel 14.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_4": {
-        "article_num": "Art.\u00a027",
-        "par_num": "4",
-        "text": "Die in die Administrativuntersuchung einbezogenen Beh\u00f6rden und Personen haben Gelegenheit, alle Akten, die sie betreffen, einzusehen und dazu Stellung zu nehmen (Art. 26\u201328 VwVG).",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_5": {
-        "article_num": "Art.\u00a027",
-        "par_num": "5",
-        "text": "Sie haben Anspruch auf rechtliches Geh\u00f6r (Art. 29\u201333 VwVG).",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_h/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Die in die Administrativuntersuchung einbezogenen Personen k\u00f6nnen sich vertreten und verbeist\u00e4nden lassen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_h/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Das Untersuchungsorgan weist die Personen, die befragt werden sollen, darauf hin, dass sie die Aussage verweigern k\u00f6nnen, wenn sie sich mit dieser im Hinblick auf ein Disziplinar- oder Strafverfahren selbst belasten w\u00fcrden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_h/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Es weist Personen ausserhalb der Bundesverwaltung, die befragt werden sollen, darauf hin, dass ihre Auskunftserteilung freiwillig erfolgt.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_i/para": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "Jede Dienststelle, die vom Untersuchungsorgan zur Bekanntgabe von Personendaten aufgefordert wird, hat in eigener Kompetenz sicherzustellen, dass dabei die Bestimmungen des Datenschutzgesetzes vom 25. September 2020",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Das Untersuchungsorgan liefert der anordnenden Stelle s\u00e4mtliche Untersuchungsakten sowie einen Bericht ab.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Es stellt im Bericht den Ablauf sowie die Ergebnisse der Untersuchung dar und pr\u00e4sentiert Vorschl\u00e4ge f\u00fcr das weitere Vorgehen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Die anordnende Stelle informiert die in eine Administrativuntersuchung einbezogenen Beh\u00f6rden und Personen \u00fcber das Ergebnis.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_4": {
-        "article_num": "Art.\u00a027",
-        "par_num": "4",
-        "text": "\u00dcber die Folgen einer Administrativuntersuchung entscheidet die anordnende Stelle.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_5": {
-        "article_num": "Art.\u00a027",
-        "par_num": "5",
-        "text": "Die Ergebnisse einer Administrativuntersuchung k\u00f6nnen zum Anlass f\u00fcr die Einleitung anderer, insbesondere personalrechtlicher Verfahren genommen werden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_k/para_u1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "(Art. 61",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_k/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Gesetze und Verordnungen der Kantone, die vom Bund genehmigt werden m\u00fcssen, sind bei der Bundeskanzlei einzureichen. Die Bundeskanzlei kann die Einreichung verlangen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_k/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Die Erlasse sind einzureichen, sobald sie von der zust\u00e4ndigen kantonalen Beh\u00f6rde angenommen worden sind. Die Durchf\u00fchrung einer Volksabstimmung oder der Ablauf einer Referendumsfrist m\u00fcssen nicht abgewartet werden.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_k/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Die Kantone k\u00f6nnen genehmigungspflichtige Erlasse bei der Bundeskanzlei zur Vorpr\u00fcfung einreichen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_l/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Die Bundeskanzlei leitet einen bei ihr eingereichten Erlass an das zust\u00e4ndige Departement weiter.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_l/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "F\u00e4llt ein Erlass nicht in die ausschliessliche Zust\u00e4ndigkeit eines Departementes, so bestimmt die Bundeskanzlei die Federf\u00fchrung und orientiert die mitinteressierten Departemente.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_m/para": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "(Art. 61",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_n/para_u1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "(Art. 61",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_n/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Kommt das Departement zum Schluss, dass die Genehmigung wegen Bundesrechtswidrigkeit nicht oder nur mit Vorbehalt erteilt werden kann, so trifft es innert zwei Monaten nach Einreichung einen Zwischenentscheid. Es unterbreitet den Entscheid mit kurzer Begr\u00fcndung dem Kanton und setzt ihm eine Frist zur Stellungnahme.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_n/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Kommt das Departement auf Grund der Stellungnahme des Kantons zum Schluss, dass keine Bundesrechtswidrigkeit besteht, so erteilt es die Genehmigung innert zwei Monaten nach Eingang der Stellungnahme des Kantons.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_n/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Andernfalls unterbreitet das Departement dem Bundesrat das Gesch\u00e4ft innert zwei Monaten mit einem Antrag auf Erteilung der Genehmigung mit Vorbehalt oder auf Verweigerung der Genehmigung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_o/para_u1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "(Art. 61",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_o/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "\u00dcber Vertr\u00e4ge der Kantone unter sich oder mit dem Ausland informieren die Vertragskantone oder eine von ihnen bezeichnete Koordinationsstelle die Bundeskanzlei.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_o/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_o/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Der Vertragstext ist der Information beizulegen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_p/para": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "Die Kantone k\u00f6nnen Vertr\u00e4ge unter sich bei der Bundeskanzlei zur Vorpr\u00fcfung einreichen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_q/para_u1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "(Art. 62 Abs. 1 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_q/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Die Bundeskanzlei orientiert die nicht beteiligten Kantone (Drittkantone) in Form einer Bekanntmachung im Bundesblatt \u00fcber einen ihr zur Kenntnis gebrachten Vertrag innert 14 Tagen seit Eingang des Vertrags.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_q/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Sie nennt in der Bekanntmachung die Vertragskantone, den Titel des betreffenden Vertrags sowie die Stelle, bei welcher der Vertragstext bezogen oder eingesehen werden kann.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_q/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "F\u00fcr Vertr\u00e4ge der Kantone mit dem Ausland, die durch Vermittlung des Bundes abgeschlossen werden, gelten die Abs\u00e4tze 1 und 2 sinngem\u00e4ss.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_r/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Die Bundeskanzlei leitet einen bei ihr eingereichten Vertrag an das zust\u00e4ndige Departement weiter.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_r/para_2": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "F\u00e4llt ein Vertrag nicht in die ausschliessliche Zust\u00e4ndigkeit eines Departements, so bestimmt die Bundeskanzlei die Federf\u00fchrung und orientiert die mitinteressierten Departemente.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_s/para_u1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "(Art. 62 Abs. 2 und 3 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_s/para_1": {
-        "article_num": "Art.\u00a027",
-        "par_num": "1",
-        "text": "Das Departement teilt das Ergebnis der Pr\u00fcfung des Vertrags innert zwei Monaten seit der Orientierung im Bundesblatt nach Artikel 27",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_s/para_2 ": {
-        "article_num": "Art.\u00a027",
-        "par_num": "2",
-        "text": "Stellt das Departement fest, dass der Vertrag dem Recht oder den Interessen des Bundes zuwiderl\u00e4uft, so macht es diesen Einwand gegen\u00fcber den Vertragskantonen und gegebenenfalls der Koordinationsstelle geltend und l\u00e4dt sie zur Stellungnahme ein.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_s/para_3": {
-        "article_num": "Art.\u00a027",
-        "par_num": "3",
-        "text": "Das Departement teilt den Vertragskantonen und der Koordinationsstelle sowie der Bundeskanzlei umgehend mit, ob auf Grund der Stellungnahme der Widerspruch zum Recht oder den Interessen des Bundes bestehen bleibt oder nicht.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_t/para": {
-        "article_num": "Art.\u00a027",
-        "par_num": "",
-        "text": "(Art. 62 Abs. 4 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_28/para": {
-        "article_num": "Art.\u00a028",
-        "par_num": "",
-        "text": "(Art. 31 Abs. 3, 43 und 47 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_29/para_u1": {
-        "article_num": "Art.\u00a029",
-        "par_num": "",
-        "text": "(Art. 37 und 43 Abs. 4 RVOG)",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_29/para_1": {
-        "article_num": "Art.\u00a029",
-        "par_num": "1",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_29/para_2": {
-        "article_num": "Art.\u00a029",
-        "par_num": "2",
-        "text": "F\u00fcr departements\u00fcbergreifende Aufgaben k\u00f6nnen die zust\u00e4ndigen Departemente bzw. die Bundeskanzlei eine gemeinsame Gesch\u00e4ftsordnung erlassen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_29/para_3": {
-        "article_num": "Art.\u00a029",
-        "par_num": "3",
-        "text": "Die Gesch\u00e4ftsordnungen sind \u00f6ffentlich zug\u00e4nglich, werden aber nicht in der Amtlichen Sammlung des Bundesrechts publiziert.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_30/para_1": {
-        "article_num": "Art.\u00a030",
-        "par_num": "1",
-        "text": "Der Bundesrat bzw. die Generalsekret\u00e4renkonferenz, die Departemente oder die Bundeskanzlei sorgen mit Weisungen und Arbeitshilfen f\u00fcr den guten Gang der Verwaltung.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_30/para_2": {
-        "article_num": "Art.\u00a030",
-        "par_num": "2",
-        "text": "",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_31/para_1": {
-        "article_num": "Art.\u00a031",
-        "par_num": "1",
-        "text": "Die Departemente und die Bundeskanzlei entscheiden in ihrem Bereich \u00fcber Bewilligungen nach Artikel 271 Ziffer 1 des Strafgesetzbuches",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_31/para_1bis": {
-        "article_num": "Art.\u00a031",
-        "par_num": "1bis",
-        "text": "Erm\u00e4chtigungen nach Artikel 22 des Bundesbeschlusses vom 21. Dezember 1995",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_31/para_2": {
-        "article_num": "Art.\u00a031",
-        "par_num": "2",
-        "text": "F\u00e4lle von politischer oder anderer grunds\u00e4tzlicher Bedeutung sind dem Bundesrat zu unterbreiten.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_31/para_3": {
-        "article_num": "Art.\u00a031",
-        "par_num": "3",
-        "text": "Die Entscheide sind der Bundesanwaltschaft und den mitinteressierten Departementen zuzustellen.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_34/para": {
-        "article_num": "Art.\u00a034",
-        "par_num": "",
-        "text": "Der Bundesratsbeschluss vom 7.\u00a0Juli 1971",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_35/para_1": {
-        "article_num": "Art.\u00a035",
-        "par_num": "1",
-        "text": "Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Januar 1999 in Kraft.",
-        "comment": ""
-    },
-    "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_35/para_2": {
-        "article_num": "Art.\u00a035",
-        "par_num": "2",
-        "text": "Die Artikel 26 und 27 treten gleichzeitig mit der Organisationsverordnung f\u00fcr die Bundeskanzlei vom 5. Mai 1999",
-        "comment": ""
+    "_metadata": {
+        "title": "Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 (RVOV)",
+        "short": "RVOV",
+        "frbr_nr": "172.010.1",
+        "uri": "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201"
+    },
+    "lines": {
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_u1": {
+            "article_num": "Art.\u00a01",
+            "par_num": "",
+            "text": "(Art. 13, 16 Abs. 1 und 4, 17 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_1": {
+            "article_num": "Art.\u00a01",
+            "par_num": "1",
+            "text": "Die Sitzungen des Bundesrates finden in der Regel einmal jede Woche statt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_2": {
+            "article_num": "Art.\u00a01",
+            "par_num": "2",
+            "text": "Gesch\u00e4fte von wesentlicher Bedeutung oder von politischer Tragweite werden einzeln beraten und beschlossen. Gesch\u00e4fte von weit reichender Bedeutung k\u00f6nnen im Rahmen von Klausuren behandelt werden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_3": {
+            "article_num": "Art.\u00a01",
+            "par_num": "3",
+            "text": "Die \u00fcbrigen Gesch\u00e4fte k\u00f6nnen, wenn sie unbestritten sind, ohne Einzelberatung gesamthaft verabschiedet oder in einem schriftlichen Beschlussverfahren erledigt werden. Pr\u00e4sidialentscheide nach Artikel 26 Absatz 4 RVOG bleiben vorbehalten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_4": {
+            "article_num": "Art.\u00a01",
+            "par_num": "4",
+            "text": "Wenn es die Umst\u00e4nde erfordern und keine Zeit f\u00fcr die Durchf\u00fchrung einer Sitzung zur Verf\u00fcgung steht, kann der Bundesrat auch einzelne Gesch\u00e4fte nach Absatz\u00a02 schriftlich oder mit anderen Mitteln verhandeln. Diese Beschl\u00fcsse sind denjenigen in den Sitzungen gleichgestellt. Pr\u00e4sidialentscheide nach Artikel 26 Abs\u00e4tze 1\u20133 RVOG bleiben vorbehalten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_1/para_5": {
+            "article_num": "Art.\u00a01",
+            "par_num": "5",
+            "text": "Die Beschl\u00fcsse werden f\u00fcr jedes Gesch\u00e4ft schriftlich festgehalten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_2/para_u1": {
+            "article_num": "Art.\u00a02",
+            "par_num": "",
+            "text": "(Art. 25 Abs. 2 Bst. a, 32 Bst. b und 33 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_2/para_1": {
+            "article_num": "Art.\u00a02",
+            "par_num": "1",
+            "text": "Mit der Gesch\u00e4ftsplanung wird sichergestellt, dass die Gesch\u00e4fte im Bundesrat entsprechend ihrer Bedeutung und Dringlichkeit behandelt werden k\u00f6nnen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_2/para_2": {
+            "article_num": "Art.\u00a02",
+            "par_num": "2",
+            "text": "Die Bundespr\u00e4sidentin oder der Bundespr\u00e4sident legt mit der Bundeskanzlei und den Departementen die wichtigsten Gesch\u00e4fte und Themenschwerpunkte f\u00fcr ein Quartal oder Semester fest.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_u1": {
+            "article_num": "Art.\u00a03",
+            "par_num": "",
+            "text": "(Art. 14, 15, 17 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_1": {
+            "article_num": "Art.\u00a03",
+            "par_num": "1",
+            "text": "Der Bundesrat fasst seine Beschl\u00fcsse in der Regel gest\u00fctzt auf schriftliche Antr\u00e4ge und nach abgeschlossenem Mitberichtsverfahren (Art. 5).",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_2": {
+            "article_num": "Art.\u00a03",
+            "par_num": "2",
+            "text": "Das Antragsrecht steht den Mitgliedern des Bundesrates sowie, f\u00fcr die Gesch\u00e4fte der Bundeskanzlei, der Bundeskanzlerin oder dem Bundeskanzler zu.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_3": {
+            "article_num": "Art.\u00a03",
+            "par_num": "3",
+            "text": "Soweit das Bundesrecht andere Beh\u00f6rden oder Organe bezeichnet, die dem Bundesrat Gesch\u00e4fte vorlegen oder Antr\u00e4ge unterbreiten k\u00f6nnen, geschieht dies \u00fcber die Bundeskanzlei oder das Departement, das den engsten Sachbezug zum betreffenden Gesch\u00e4ft aufweist.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_4": {
+            "article_num": "Art.\u00a03",
+            "par_num": "4",
+            "text": "Der Bundesrat f\u00fchrt Aussprachen insbesondere zu Gesch\u00e4ften von weit reichender Bedeutung durch. Er trifft bei Bedarf Zwischenentscheide, legt Grundz\u00fcge einer L\u00f6sung fest und erteilt dem zust\u00e4ndigen Departement oder der Bundeskanzlei Anweisungen zur Bearbeitung des Gesch\u00e4fts.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_3/para_5": {
+            "article_num": "Art.\u00a03",
+            "par_num": "5",
+            "text": "Die Departemente oder die Bundeskanzlei k\u00f6nnen dem Bundesrat jederzeit ohne formellen Antrag Informationsnotizen \u00fcber wichtige Vorg\u00e4nge und T\u00e4tigkeiten in ihrem Aufgabenbereich zuleiten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_4/para_1": {
+            "article_num": "Art.\u00a04",
+            "par_num": "1",
+            "text": "Bei der Vorbereitung von Antr\u00e4gen l\u00e4dt das federf\u00fchrende Amt die mitinteressierten Verwaltungseinheiten unter Ansetzung angemessener Fristen zur Stellungnahme ein. In begr\u00fcndeten Ausnahmef\u00e4llen kann auf die \u00c4mterkonsultation verzichtet oder kann diese auf einen engen Adressatenkreis beschr\u00e4nkt werden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_4/para_1bis": {
+            "article_num": "Art.\u00a04",
+            "par_num": "1bis",
+            "text": "Bei vertraulichen und geheimen Gesch\u00e4ften des Bundesrates sind zu wichtigen und strittigen rechtlichen Fragen nach M\u00f6glichkeit vor der Sitzung des Bundesrates die f\u00fcr die vorg\u00e4ngige rechtliche Pr\u00fcfung zust\u00e4ndigen Verwaltungseinheiten zu konsultieren.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_4/para_2": {
+            "article_num": "Art.\u00a04",
+            "par_num": "2",
+            "text": "Differenzen werden so weit wie m\u00f6glich in der \u00c4mterkonsultation bereinigt; das federf\u00fchrende Departement erstattet dem Bundesrat dar\u00fcber Bericht.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_4/para_3": {
+            "article_num": "Art.\u00a04",
+            "par_num": "3",
+            "text": "Als mitinteressiert gelten die Verwaltungseinheiten, die einen fachlichen Bezug zum Gesch\u00e4ft haben oder die f\u00fcr die Beurteilung finanzieller, rechtlicher oder formeller Aspekte zust\u00e4ndig sind.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5/para_u1": {
+            "article_num": "Art.\u00a05",
+            "par_num": "",
+            "text": "(Art. 15 und 33 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5/para_1": {
+            "article_num": "Art.\u00a05",
+            "par_num": "1",
+            "text": "Das Mitberichtsverfahren dient der Entscheidvorbereitung auf Stufe Bundesrat. Ziel des Verfahrens ist es, dass sich der Bundesrat in den Verhandlungen auf grunds\u00e4tzliche Aspekte konzentrieren kann.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5/para_1bis": {
+            "article_num": "Art.\u00a05",
+            "par_num": "1bis",
+            "text": "Das Mitberichtsverfahren beginnt mit der Unterzeichnung des Antrags durch das federf\u00fchrende Departement.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5/para_2": {
+            "article_num": "Art.\u00a05",
+            "par_num": "2",
+            "text": "Das federf\u00fchrende Departement reicht der Bundeskanzlei den unterzeichneten Antrag rechtzeitig zur Durchf\u00fchrung des Mitberichtsverfahrens ein.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_a/para_1": {
+            "article_num": "Art.\u00a05",
+            "par_num": "1",
+            "text": "\u00dcber Gesuche von Ratsmitgliedern und von parlamentarischen Kommissionen um Informationen nach den Artikeln 7 beziehungsweise 150 des Parlamentsgesetzes vom 13.\u00a0Dezember 2002",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_a/para_2": {
+            "article_num": "Art.\u00a05",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_a/para_3": {
+            "article_num": "Art.\u00a05",
+            "par_num": "3",
+            "text": "Gesuche um Einsichtnahme in Beschl\u00fcsse des Bundesrates werden von der Bundeskanzlei im Einvernehmen mit dem zust\u00e4ndigen Departement bearbeitet und beantwortet.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_b/para_1": {
+            "article_num": "Art. 5",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_b/para_2": {
+            "article_num": "Art. 5",
+            "par_num": "2",
+            "text": "Eine Konsultation nach Absatz 1 erfolgt auf Basis eines Mandatsentwurfs des Bundesrates. Im Fall dringlicher Konsultationen nach Artikel 152 Absatz 4 ParlG kann die Konsultation zu vorl\u00e4ufigen Positionen erfolgen, welche die Schweiz in Verhandlungen einzunehmen gedenkt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_c/para_1": {
+            "article_num": "Art.\u00a05",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_c/para_2": {
+            "article_num": "Art.\u00a05",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_5_c/para_3": {
+            "article_num": "Art.\u00a05",
+            "par_num": "3",
+            "text": "Der Bundesrat \u00fcbermittelt der Gesch\u00e4ftspr\u00fcfungsdelegation einmal j\u00e4hrlich die Liste nach Absatz\u00a02.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_6/para_u1": {
+            "article_num": "Art.\u00a06",
+            "par_num": "",
+            "text": "(Art. 8 Abs. 1 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_6/para_1": {
+            "article_num": "Art.\u00a06",
+            "par_num": "1",
+            "text": "Die Bundesverwaltung ist in die zentrale und die dezentrale Verwaltung gegliedert.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_6/para_2": {
+            "article_num": "Art.\u00a06",
+            "par_num": "2",
+            "text": "Personen und Organisationen des \u00f6ffentlichen oder privaten Rechts, die durch Gesetz geschaffen worden sind und \u00fcberwiegend Dienstleistungen mit Monopolcharakter oder Aufgaben der Wirtschafts- und der Sicherheitsaufsicht erf\u00fcllen, fallen unter den Bestand der dezentralen Bundesverwaltung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_6/para_3": {
+            "article_num": "Art.\u00a06",
+            "par_num": "3",
+            "text": "Externe Tr\u00e4ger von Verwaltungsaufgaben im Sinne von Artikel 2 Absatz 4 RVOG, die \u00fcberwiegend Dienstleistungen am Markt erbringen, fallen nicht unter den Bestand der Bundesverwaltung. Dies gilt auch f\u00fcr Organisationen und Personen des Privatrechts, die der Bund mit Finanzhilfen oder Abgeltungen nach Artikel 3 des Subventionsgesetzes vom 5. Oktober 1990",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_u1": {
+            "article_num": "Art.\u00a07",
+            "par_num": "",
+            "text": "(Art. 2 Abs. 1 und 2 sowie Art. 43 und 44 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_1": {
+            "article_num": "Art.\u00a07",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_2": {
+            "article_num": "Art.\u00a07",
+            "par_num": "2",
+            "text": "Verwaltungseinheiten nach Absatz 1 Buchstaben c und d k\u00f6nnen auch eine andere Bezeichnung tragen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_3": {
+            "article_num": "Art.\u00a07",
+            "par_num": "3",
+            "text": "Die Verwaltungseinheiten nach Absatz 1 Buchstaben b-d sind einem Departement unterstellt. Sie sind gegen\u00fcber dem Departement weisungsgebunden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7/para_4": {
+            "article_num": "Art.\u00a07",
+            "par_num": "4",
+            "text": "Bundes\u00e4mter k\u00f6nnen zu Gruppen zusammengefasst werden, wenn die F\u00fchrbarkeit des Departements damit verbessert wird.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7_a/para_u1": {
+            "article_num": "Art.\u00a07",
+            "par_num": "",
+            "text": "(Art. 2 Abs. 3 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7_a/para_1": {
+            "article_num": "Art.\u00a07",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7_a/para_2": {
+            "article_num": "Art.\u00a07",
+            "par_num": "2",
+            "text": "Die Verwaltungseinheiten nach Absatz 1 Buchstaben a und b sind in der Erf\u00fcllung ihrer Aufgaben weisungsungebunden, soweit das Gesetz nichts anderes bestimmt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_7_b/para": {
+            "article_num": "Art.\u00a07",
+            "par_num": "",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "In Anhang 2 sind die ausserparlamentarischen Kommissionen mit ihrer Zuordnung zu einem Departement abschliessend aufgelistet.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_a/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Ausserparlamentarische Kommissionen sind ihrer Funktion nach entweder Verwaltungs- oder Beh\u00f6rdenkommissionen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_a/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Verwaltungskommissionen haben beratende und vorbereitende Funktionen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_a/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "Beh\u00f6rdenkommissionen sind mit Entscheidungsbefugnissen ausgestattet.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_b/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Zum Mitglied einer ausserparlamentarischen Kommission ist w\u00e4hlbar, wer die Voraussetzungen f\u00fcr eine Anstellung in der Bundesverwaltung erf\u00fcllt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_b/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "F\u00fcr die Wahl besteht keine Altersbeschr\u00e4nkung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_c/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Frauen und M\u00e4nner m\u00fcssen in einer ausserparlamentarischen Kommission mindestens mit je 40 Prozent vertreten sein. L\u00e4ngerfristig ist eine parit\u00e4tische Vertretung beider Geschlechter anzustreben.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_c/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Betr\u00e4gt der Anteil der Frauen oder der M\u00e4nner weniger als 40 Prozent, so verlangt die Bundeskanzlei vom zust\u00e4ndigen Departement eine schriftliche Begr\u00fcndung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_c_bis/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "In den ausserparlamentarischen Kommissionen m\u00fcssen nach M\u00f6glichkeit deutsch-, franz\u00f6sisch- und italienischsprachige Personen vertreten sein. Eine Vertretung einer r\u00e4toromanischsprachigen Person ist anzustreben.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_c_bis/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Sind Deutsch, Franz\u00f6sisch und Italienisch nicht mit mindestens einer Person vertreten, so verlangt die Bundeskanzlei vom zust\u00e4ndigen Departement eine schriftliche Begr\u00fcndung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_d/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Eine \u00dcberschreitung der gesetzlichen H\u00f6chstzahl an Mitgliedern ausserparlamentarischer Kommissionen ist nur ausnahmsweise gestattet und begr\u00fcndungspflichtig.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_d/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Ausserparlamentarische Kommissionen werden durch Verf\u00fcgung des Bundesrates eingesetzt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_bis/para": {
+            "article_num": "Art.\u00a08",
+            "par_num": "",
+            "text": "Der Bundesrat w\u00e4hlt die Mitglieder. Er bestimmt deren Funktion, soweit diese sich nicht aus spezialrechtlichen Bestimmungen \u00fcber die Organisation der betreffenden Kommission ergibt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_1": {
+            "article_num": "Art. 8",
+            "par_num": "1",
+            "text": "Der Bundesrat kann f\u00fcr Mitglieder von Kommissionen, die mit Aufsichts- und Regulierungsaufgaben betraut sind, im Wahlbeschluss eine Karenzfrist ansetzen, wenn zu erwarten ist, dass der unmittelbare Wechsel eines Mitglieds nach dem Ausscheiden aus der Kommission in eine T\u00e4tigkeit bei Arbeits- oder Auftraggebern des beaufsichtigten oder regulierten Bereichs zu einem Interessenkonflikt f\u00fchrt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_2": {
+            "article_num": "Art. 8",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_3": {
+            "article_num": "Art. 8",
+            "par_num": "3",
+            "text": "Die Dauer der Karenzfrist betr\u00e4gt mindestens sechs und maximal zw\u00f6lf Monate.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_4": {
+            "article_num": "Art. 8",
+            "par_num": "4",
+            "text": "F\u00fcr die Karenzfrist kann eine Entsch\u00e4digung festgelegt werden. Sie entspricht nach Massgabe der im Einzelfall zu erwartenden wirtschaftlichen Beeintr\u00e4chtigung maximal der bisherigen Entsch\u00e4digung, wobei s\u00e4mtliche f\u00fcr diese Zeit erhaltenen Eink\u00fcnfte, Entsch\u00e4digungen und Vorsorgeleistungen anzurechnen sind.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_5": {
+            "article_num": "Art. 8",
+            "par_num": "5",
+            "text": "Wer eine Karenzfristentsch\u00e4digung erh\u00e4lt, ist verpflichtet, die w\u00e4hrend der Karenzfrist erhaltenen Eink\u00fcnfte, Entsch\u00e4digungen und Vorsorgeleistungen dem zust\u00e4ndigen Departement zu melden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_e_ter/para_6": {
+            "article_num": "Art. 8",
+            "par_num": "6",
+            "text": "Zu Unrecht bezogene Karenzfristentsch\u00e4digungen m\u00fcssen zur\u00fcckerstattet werden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Das Berufsgeheimnis im Sinne des Strafgesetzbuches",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "Das Kommissionsmitglied meldet jede \u00c4nderung der Interessenbindungen w\u00e4hrend der Amtsdauer unverz\u00fcglich dem zust\u00e4ndigen Departement. Dieses aktualisiert das Verzeichnis nach Artikel 8",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f/para_4": {
+            "article_num": "Art.\u00a08",
+            "par_num": "4",
+            "text": "Das Kommissionsmitglied, das seine Interessenbindungen anl\u00e4sslich der Wahl nicht vollst\u00e4ndig offengelegt oder \u00c4nderungen der Interessenbindungen w\u00e4hrend der Amtsdauer nicht gemeldet hat und dies auch nach entsprechender Aufforderung durch die zust\u00e4ndige Beh\u00f6rde unterl\u00e4sst, kann abberufen werden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f_bis/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Kommissionsmitglieder d\u00fcrfen nicht \u00f6ffentlich bekannte Informationen, die sie im Rahmen ihrer Kommissionst\u00e4tigkeit erlangen, nur f\u00fcr ihre Kommissionst\u00e4tigkeit verwenden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_f_bis/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Sie d\u00fcrfen Informationen nach Absatz 1 insbesondere nicht verwenden, um f\u00fcr sich oder andere einen Vorteil zu erlangen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_g/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Die Amtsdauer der Mitglieder ausserparlamentarischer Kommissionen betr\u00e4gt vier Jahre. Sie richtet sich nach der Legislaturperiode des Nationalrates. Sie beginnt am 1.\u00a0Januar und endet am 31. Dezember.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_g/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Das Mandat von Mitgliedern, die w\u00e4hrend der Amtsdauer gew\u00e4hlt werden, endet mit deren Ablauf.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_h/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Der Bundesrat nimmt f\u00fcr jede neue Amtsdauer der ausserparlamentarischen Kommissionen Gesamterneuerungswahlen vor.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_h/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Die Bundeskanzlei koordiniert die Gesamterneuerungswahlen. Sie erl\u00e4sst dazu die entsprechenden Weisungen und gibt diese den Gesch\u00e4ftspr\u00fcfungskommissionen der eidgen\u00f6ssischen R\u00e4te bekannt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_h/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "Nach den Gesamterneuerungswahlen erstattet die Bundeskanzlei dem Bundesrat zuhanden der eidgen\u00f6ssischen R\u00e4te Bericht \u00fcber die Zusammensetzung der ausserparlamentarischen Kommissionen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Die Amtszeit der Mitglieder ausserparlamentarischer Kommissionen ist auf insgesamt zw\u00f6lf Jahre beschr\u00e4nkt; sie endet mit dem Ablauf des entsprechenden Kalenderjahres.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Der Bundesrat kann in begr\u00fcndeten Einzelf\u00e4llen die Amtszeit auf h\u00f6chstens 16\u00a0Jahre verl\u00e4ngern.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "Die Amtszeitbeschr\u00e4nkung gilt nicht f\u00fcr Bundesangestellte, deren Mitgliedschaft f\u00fcr die Aufgabenerf\u00fcllung erforderlich ist oder in einem anderen Erlass zwingend vorgeschrieben wird.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i_bis/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Jeder ausserparlamentarischen Kommission steht ein Sekretariat zur Verf\u00fcgung, das von einer Stelle in der zentralen Bundesverwaltung gef\u00fchrt wird.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i_bis/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Die Leiterin oder der Leiter und die \u00fcbrigen Mitarbeiterinnen und Mitarbeiter des Sekretariats unterstehen dem f\u00fcr die zentrale Bundesverwaltung geltenden Bundespersonalrecht.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i_bis/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "Vorbehalten bleiben abweichende spezialrechtliche Bestimmungen oder Bestimmungen in der Einsetzungsverf\u00fcgung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_i_ter/para": {
+            "article_num": "Art.\u00a08",
+            "par_num": "",
+            "text": "Kommissionen, die gem\u00e4ss ihrer Einsetzungsverf\u00fcgung ohne R\u00fccksprache mit der zust\u00e4ndigen Beh\u00f6rde kommunizieren, achten bei der Information der \u00d6ffentlichkeit zu politischen Fragen auf die gebotene Zur\u00fcckhaltung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Der Bundesrat w\u00e4hlt nach Massgabe der Organisationserlasse die Mitglieder der Leitungsorgane von \u00f6ffentlich-rechtlichen Organisationen des Bundes, insbesondere die Mitglieder des Verwaltungs- oder Institutsrats von Anstalten des Bundes.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j/para_1bis": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1bis",
+            "text": "Soweit die Wahl einem andern Wahlorgan obliegt oder ein Organisationserlass des \u00f6ffentlichen oder privaten Rechts die Vertretung des Bundes in einem Leitungsorgan vorsieht, bestimmt oder w\u00e4hlt der Bundesrat die Mitglieder des entsprechenden Leitungsorgans, insbesondere die von der Generalversammlung zu w\u00e4hlenden und die nach den Artikeln 762 und 926 des Obligationenrechts",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Der Bundesrat erstellt f\u00fcr jede Organisation ein Anforderungsprofil mit den pers\u00f6nlichen und fachlichen Voraussetzungen einer Vertretung. Er \u00fcbt sein Wahl- und Bestimmungsrecht gest\u00fctzt auf dieses Anforderungsprofil aus.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j_bis/para_1": {
+            "article_num": "Art. 8",
+            "par_num": "1",
+            "text": "Der Bundesrat kann f\u00fcr Mitglieder von Verwaltungs- und Institutsr\u00e4ten von Anstalten des Bundes, die mit Aufsichts- und Regulierungsaufgaben betraut sind, im Wahlbeschluss eine Karenzfrist ansetzen, wenn zu erwarten ist, dass der unmittelbare Wechsel eines Mitgliedes nach dem Ausscheiden aus dem Verwaltungs- und dem Institutsrat in eine T\u00e4tigkeit bei Arbeits- oder Auftraggebern des beaufsichtigten oder regulierten Bereichs zu einem Interessenkonflikt f\u00fchrt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j_bis/para_2": {
+            "article_num": "Art. 8",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_j_bis/para_3": {
+            "article_num": "Art. 8",
+            "par_num": "3",
+            "text": "Artikel 8",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Die Bundeskanzlei ver\u00f6ffentlicht unter Mitwirkung der Departemente in elektronischer Form ein Verzeichnis der Mitglieder ausserparlamentarischer Kommissionen, der Mitglieder der Leitungsorgane von Organisationen des Bundes sowie der Vertreterinnen und Vertreter des Bundes in Organisationen des \u00f6ffentlichen oder privaten Rechts.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "\u2026",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_4": {
+            "article_num": "Art.\u00a08",
+            "par_num": "4",
+            "text": "Die Daten sind nach erfolgter Wahl bis zum Ausscheiden der Person abrufbar.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_k/para_5": {
+            "article_num": "Art.\u00a08",
+            "par_num": "5",
+            "text": "Sie k\u00f6nnen zu statistischen Zwecken historisiert werden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_l/para": {
+            "article_num": "Art.\u00a08",
+            "par_num": "",
+            "text": "Anspruch auf eine Entsch\u00e4digung im Sinne dieses Abschnittes hat die Person, die als Mitglied oder als Ersatzmitglied einer ausserparlamentarischen Kommission gew\u00e4hlt wurde und f\u00fcr diese Kommission t\u00e4tig ist.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_m/para": {
+            "article_num": "Art.\u00a08",
+            "par_num": "",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_n/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_n/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Die Zuteilung der gesellschaftsorientierten Kommissionen zu den Entsch\u00e4digungskategorien ist in Anhang 2 Ziffer 1 geregelt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Die Mitglieder und die Ersatzmitglieder gesellschaftsorientierter Kommissionen haben f\u00fcr ihre Kommissionst\u00e4tigkeit Anspruch auf ein Taggeld.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Es gelten die in Anhang 2 Ziffer 1 aufgef\u00fchrten Ans\u00e4tze. Diese gelten f\u00fcr die Vizepr\u00e4sidentin oder den Vizepr\u00e4sidenten und f\u00fcr die \u00fcbrigen Mitglieder.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "Die Pr\u00e4sidentin oder der Pr\u00e4sident erh\u00e4lt ein um 25\u00a0Prozent erh\u00f6htes Taggeld. Die zust\u00e4ndige Beh\u00f6rde kann der Pr\u00e4sidentin oder dem Pr\u00e4sidenten in begr\u00fcndeten Ausnahmef\u00e4llen h\u00f6chstens das doppelte Taggeld ausrichten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_3bis": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3bis",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_4": {
+            "article_num": "Art.\u00a08",
+            "par_num": "4",
+            "text": "Ist ein Mitglied ausserhalb von Sitzungen und Augenscheinen durch Aktenstudium, Berichte oder Vorbereitung von Referaten aussergew\u00f6hnlich beansprucht, so kann die zust\u00e4ndige Beh\u00f6rde ihm pro Jahr h\u00f6chstens 16 zus\u00e4tzliche Taggelder ausrichten. Erfordert ein in der Spezialgesetzgebung festgelegter Auftrag einen h\u00f6heren Aufwand, so kann die zust\u00e4ndige Beh\u00f6rde im Einzelfall bewilligen, dass mehr als 16 zus\u00e4tzliche Taggelder ausgerichtet werden. Taggelder, die \u00fcber die 16\u00a0zus\u00e4tzlichen Taggelder hinaus ausgerichtet werden, sind im Rahmen der Berichterstattung \u00fcber die Gesamterneuerungswahlen nach Artikel 8",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_5": {
+            "article_num": "Art.\u00a08",
+            "par_num": "5",
+            "text": "Muss ein Kommissionsmitglied seinen Wohnort am Tag vor der Sitzung verlassen oder kann es erst am Tag nach der Sitzung dorthin zur\u00fcckkehren, so richtet ihm die zust\u00e4ndige Beh\u00f6rde f\u00fcr den Reisetag ein halbes Taggeld aus.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_6": {
+            "article_num": "Art.\u00a08",
+            "par_num": "6",
+            "text": "F\u00fcr ein und denselben Tag d\u00fcrfen nicht mehrere Taggelder bezogen werden, auch wenn mehrere, unter sich verschiedene oder getrennt zu berechnende Verrichtungen vorgenommen worden sind.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_o/para_7": {
+            "article_num": "Art.\u00a08",
+            "par_num": "7",
+            "text": "Die Ans\u00e4tze unterliegen nicht dem Teuerungsausgleich.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_p/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_p/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Die Zuteilung der marktorientierten Kommissionen zu den Entsch\u00e4digungskategorien ist in Anhang 2 Ziffer 2 geregelt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Die Mitglieder marktorientierter Kommissionen haben f\u00fcr ihre Kommissionst\u00e4tigkeit Anspruch auf eine pauschale Entsch\u00e4digung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Es gelten die in Anhang 2 Ziffer 2 aufgef\u00fchrten Ans\u00e4tze.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "In diesen Ans\u00e4tzen sind alle Kosten mit Ausnahme des Auslagenersatzes enthalten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_4": {
+            "article_num": "Art.\u00a08",
+            "par_num": "4",
+            "text": "Die Ans\u00e4tze gelten f\u00fcr ein Vollzeitpensum; als Berechnungsgrundlage gelten 220 Arbeitstage pro Jahr. Bei Teilzeitpensen wird der Besch\u00e4ftigungsgrad im Wahlbeschluss festgelegt, soweit er sich nicht aus den Vorschriften \u00fcber die Organisation der betreffenden Kommission ergibt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_q/para_5": {
+            "article_num": "Art.\u00a08",
+            "par_num": "5",
+            "text": "Die Ans\u00e4tze unterliegen nicht dem Teuerungsausgleich.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_r/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Der Ersatz von Auslagen f\u00fcr die Mitglieder und die Ersatzmitglieder ausserparlamentarischer Kommissionen richtet sich nach den entsprechenden Bestimmungen f\u00fcr das Bundespersonal.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_r/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Mitglieder, denen die Kommissionsmitarbeit einen besonderen organisatorischen Aufwand f\u00fcr die Betreuung von Kindern oder pflegebed\u00fcrftigen Angeh\u00f6rigen verursacht, k\u00f6nnen bei der zust\u00e4ndigen Beh\u00f6rde daf\u00fcr Auslagenersatz beantragen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_s/para_1": {
+            "article_num": "Art.\u00a08",
+            "par_num": "1",
+            "text": "Mitglieder und Ersatzmitglieder ausserparlamentarischer Kommissionen, die in einem Arbeitsverh\u00e4ltnis mit der zentralen oder der dezentralen Bundesverwaltung stehen, haben keinen Anspruch auf eine Entsch\u00e4digung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_s/para_2": {
+            "article_num": "Art.\u00a08",
+            "par_num": "2",
+            "text": "Die zust\u00e4ndige Beh\u00f6rde kann Ausnahmen bewilligen, wenn die Mitgliedschaft in der Kommission nicht in Zusammenhang mit dem Arbeitsverh\u00e4ltnis zur zentralen oder dezentralen Bundesverwaltung steht.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_s/para_3": {
+            "article_num": "Art.\u00a08",
+            "par_num": "3",
+            "text": "Die Entsch\u00e4digungen f\u00fcr Dienstreisen, Mahlzeiten und \u00dcbernachtungen richten sich nach den f\u00fcr diese Mitglieder geltenden Bestimmungen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_8_t/para": {
+            "article_num": "Art.\u00a08",
+            "par_num": "",
+            "text": "Mitglieder ausserparlamentarischer Kommissionen k\u00f6nnen nur aufgrund der f\u00fcr ihre Kommission geltenden Ans\u00e4tze entsch\u00e4digt werden. Eine zus\u00e4tzliche Entsch\u00e4digung f\u00fcr T\u00e4tigkeiten, die im Zusammenhang mit dem Auftrag der Kommission stehen, ist ausgeschlossen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_11/para": {
+            "article_num": "Art.\u00a011",
+            "par_num": "",
+            "text": "(Art. 3 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_12/para_u1": {
+            "article_num": "Art.\u00a012",
+            "par_num": "",
+            "text": "(Art. 8, 35, 36 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_12/para_1": {
+            "article_num": "Art.\u00a012",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_12/para_2": {
+            "article_num": "Art.\u00a012",
+            "par_num": "2",
+            "text": "Im \u00dcbrigen gelten insbesondere die Personalgesetzgebung und das personalpolitische Leitbild des Bundesrates.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_13/para_u1": {
+            "article_num": "Art.\u00a013",
+            "par_num": "",
+            "text": "(Art. 47 Abs. 1 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_13/para_1": {
+            "article_num": "Art.\u00a013",
+            "par_num": "1",
+            "text": "Massgebend f\u00fcr die Zuordnung der Zust\u00e4ndigkeit zum Entscheid nach Artikel 47 Absatz 1 RVOG ist die Bedeutung eines Gesch\u00e4ftes.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_13/para_2": {
+            "article_num": "Art.\u00a013",
+            "par_num": "2",
+            "text": "Die Zuordnung erfolgt in der Regel an die Einheit, bei der die erforderliche politische und fachliche Kompetenz konzentriert ist. Die Zuordnung an Einheiten unterhalb der Amtsstufe erfolgt nur in begr\u00fcndeten Ausnahmef\u00e4llen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_13/para_3": {
+            "article_num": "Art.\u00a013",
+            "par_num": "3",
+            "text": "Im Einzelfall wird ein Gesch\u00e4ft der vorgesetzten Einheit zum Entscheid oder zur Erteilung einer Weisung unterbreitet, wenn seine besondere Bedeutung oder Komplexit\u00e4t dies erfordert.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_14/para_1": {
+            "article_num": "Art.\u00a014",
+            "par_num": "1",
+            "text": "Die Verwaltungseinheiten sind zur Zusammenarbeit verpflichtet. Sie unterst\u00fctzen und informieren sich gegenseitig.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_14/para_2": {
+            "article_num": "Art.\u00a014",
+            "par_num": "2",
+            "text": "Sie koordinieren ihre T\u00e4tigkeiten und stimmen diese auf die Gesamtpolitik des Bundesrates ab.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_14/para_3": {
+            "article_num": "Art.\u00a014",
+            "par_num": "3",
+            "text": "Sie erteilen anderen Verwaltungseinheiten die Ausk\u00fcnfte, die f\u00fcr deren gesetzliche Aufgabenerf\u00fcllung erforderlich sind.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15/para_1": {
+            "article_num": "Art.\u00a015",
+            "par_num": "1",
+            "text": "Die Verwaltungseinheiten stellen zur Vorbereitung ihrer Entscheide die Mitwirkung aller mitinteressierten Einheiten sicher.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15/para_2": {
+            "article_num": "Art.\u00a015",
+            "par_num": "2",
+            "text": "Dazu laden sie die mitinteressierten Einheiten zur schriftlichen Stellungnahme ein, es sei denn, ein anderer Erlass sieht eine andere Form der Mitwirkung vor.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15/para_2bis": {
+            "article_num": "Art.\u00a015",
+            "par_num": "2bis",
+            "text": "F\u00fcr die Mitwirkung bei der Vorbereitung von rechtsetzenden Texten gelten sinngem\u00e4ss die Bestimmungen \u00fcber Bundesratsgesch\u00e4fte (Art. 4).",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15/para_3": {
+            "article_num": "Art.\u00a015",
+            "par_num": "3",
+            "text": "Ist eine Zustimmung erforderlich, werden Differenzen von den beteiligten Einheiten selber bereinigt. Ausnahmsweise k\u00f6nnen diese eine Differenzbereinigung auf n\u00e4chsth\u00f6herer Ebene verlangen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15_a/para_1": {
+            "article_num": "Art.\u00a015",
+            "par_num": "1",
+            "text": "Ber\u00fchrt ein Vorhaben des Bundes wesentliche kantonale oder kommunale Interessen, so bezieht das zust\u00e4ndige Departement oder die Bundeskanzlei die zust\u00e4ndigen kantonalen Organe sowie, wenn angezeigt, die gesamtschweizerischen Dachverb\u00e4nde der Gemeinden, St\u00e4dte und Berggebiete, angemessen ein.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_15_a/para_2": {
+            "article_num": "Art.\u00a015",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_16/para_u1": {
+            "article_num": "Art.\u00a016",
+            "par_num": "",
+            "text": "(Art. 53 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_16/para_1": {
+            "article_num": "Art.\u00a016",
+            "par_num": "1",
+            "text": "Die Generalsekret\u00e4renkonferenz ist das oberste Koordinationsorgan. Sie tr\u00e4gt zu einer vorausschauenden, wirksamen und koh\u00e4renten Verwaltungst\u00e4tigkeit bei. Sie zieht weitere Personen oder Stellen bei.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_16/para_2": {
+            "article_num": "Art.\u00a016",
+            "par_num": "2",
+            "text": "Sie wirkt mit bei der Planung, Vorbereitung und beim Vollzug von Bundesratsgesch\u00e4ften sowie bei der Bereinigung von Differenzen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_16/para_3": {
+            "article_num": "Art.\u00a016",
+            "par_num": "3",
+            "text": "Der Bundesrat regelt ihre Organisation und ihre Arbeitsweise in einem Reglement.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_u1": {
+            "article_num": "Art.\u00a017",
+            "par_num": "",
+            "text": "(Art. 6 Abs. 1, 25 Abs. 2 Bst. a, 32 Bst. a, 36 Abs. 1, 51, 52 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_1": {
+            "article_num": "Art.\u00a017",
+            "par_num": "1",
+            "text": "Der Bundesrat legt Schwergewichte, Ziele und Mittel der Planungen fest.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_2": {
+            "article_num": "Art.\u00a017",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_3": {
+            "article_num": "Art.\u00a017",
+            "par_num": "3",
+            "text": "Die Sach- und die Finanzplanungen werden zeitlich und inhaltlich so weit als m\u00f6glich aufeinander abgestimmt. Die einzelnen Aufgabengebiete werden in Politikbereiche zusammengefasst.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_4": {
+            "article_num": "Art.\u00a017",
+            "par_num": "4",
+            "text": "Die Bundeskanzlei bereitet die Sachpl\u00e4ne nach Absatz 2 Buchstabe a vor. Die Eidgen\u00f6ssische Finanzverwaltung (EFV)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_17/para_5": {
+            "article_num": "Art.\u00a017",
+            "par_num": "5",
+            "text": "F\u00fcr die untergeordneten Verwaltungseinheiten sind die Pl\u00e4ne des Bundesrates und der Departemente verbindlich.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_18/para_bis": {
+            "article_num": "Art.\u00a018",
+            "par_num": "bis",
+            "text": "(Art. 45 GVG",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_18/para_1": {
+            "article_num": "Art.\u00a018",
+            "par_num": "1",
+            "text": "Die Richtlinien der Regierungspolitik geben einen umfassenden politischen Orientierungsrahmen f\u00fcr die Regierungst\u00e4tigkeit in einer Legislaturperiode.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_18/para_2": {
+            "article_num": "Art.\u00a018",
+            "par_num": "2",
+            "text": "Sie ziehen Bilanz \u00fcber die vergangene Legislaturperiode.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_18/para_3": {
+            "article_num": "Art.\u00a018",
+            "par_num": "3",
+            "text": "Sie legen die Ziele und Wirkungen sowie die priorit\u00e4ren Massnahmen fest und bezeichnen die Bereiche, wo das staatliche Leistungsangebot \u00fcberpr\u00fcft werden muss oder abgebaut werden kann.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_19/para_u1": {
+            "article_num": "Art.\u00a019",
+            "par_num": "",
+            "text": "(Art. 51 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_19/para_1": {
+            "article_num": "Art.\u00a019",
+            "par_num": "1",
+            "text": "Die Jahresziele des Bundesrates umschreiben die Grundz\u00fcge der Regierungst\u00e4tigkeit f\u00fcr das n\u00e4chste Jahr, bestimmen Ziele und Massnahmen und bezeichnen die zuhanden der eidgen\u00f6ssischen R\u00e4te zu verabschiedenden Gesch\u00e4fte.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_19/para_2": {
+            "article_num": "Art.\u00a019",
+            "par_num": "2",
+            "text": "Die Jahresziele bilden eine Grundlage f\u00fcr die Gesch\u00e4ftsplanung des Bundesrates nach Artikel 2, f\u00fcr das Controlling nach Artikel 21, f\u00fcr die Aufsicht nach Abschnitt\u00a05 sowie f\u00fcr die j\u00e4hrliche Gesch\u00e4ftsberichterstattung nach Artikel\u00a045 des Gesch\u00e4ftsverkehrsgesetzes vom 23. M\u00e4rz 1962",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_20/para_u1": {
+            "article_num": "Art.\u00a020",
+            "par_num": "",
+            "text": "(Art. 51 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_20/para_1": {
+            "article_num": "Art.\u00a020",
+            "par_num": "1",
+            "text": "Die Departemente und die Bundeskanzlei stimmen ihre Jahresziele auf die Planungen des Bundesrates ab und unterbreiten sie dem Bundesrat zur Kenntnisnahme.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_20/para_2": {
+            "article_num": "Art.\u00a020",
+            "par_num": "2",
+            "text": "Sie erstatten im Rahmen der j\u00e4hrlichen Gesch\u00e4ftsberichterstattung des Bundesrates nach Artikel 45 GVG",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_21/para_1": {
+            "article_num": "Art.\u00a021",
+            "par_num": "1",
+            "text": "Das Controlling ist ein F\u00fchrungsinstrument zur prozessbegleitenden Steuerung der Zielerreichung auf allen Stufen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_21/para_2": {
+            "article_num": "Art.\u00a021",
+            "par_num": "2",
+            "text": "Der Bundesrat wird bei seinem Controlling durch die Bundeskanzlei und das Eidgen\u00f6ssische Finanzdepartement unterst\u00fctzt. Diese arbeiten dabei mit den Departementen zusammen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_21/para_3": {
+            "article_num": "Art.\u00a021",
+            "par_num": "3",
+            "text": "Die Departemente sind f\u00fcr das Controlling in ihrem Bereich zust\u00e4ndig. Sie stimmen ihr Controlling auf das Controlling des Bundesrates ab.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22/para_1": {
+            "article_num": "Art.\u00a022",
+            "par_num": "1",
+            "text": "Die Verwaltungseinheiten f\u00fchren den Nachweis \u00fcber die eigene Gesch\u00e4ftst\u00e4tigkeit aufgrund einer systematischen Gesch\u00e4ftsverwaltung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22/para_2": {
+            "article_num": "Art.\u00a022",
+            "par_num": "2",
+            "text": "Sie setzen zu diesem Zweck elektronische Gesch\u00e4ftsverwaltungssysteme nach der GEVER-Verordnung vom 3. April 2019",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_a/para_u1": {
+            "article_num": "Art.\u00a022",
+            "par_num": "",
+            "text": "(Art. 38a RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_a/para_1": {
+            "article_num": "Art.\u00a022",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_a/para_2": {
+            "article_num": "Art.\u00a022",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_b/para_u1": {
+            "article_num": "Art.\u00a022",
+            "par_num": "",
+            "text": "(Art. 38",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_b/para_1": {
+            "article_num": "Art.\u00a022",
+            "par_num": "1",
+            "text": "Die Departemente oder die von ihnen bezeichneten Stellen legen fest, wann und in welcher Form die Verwaltungseinheiten \u00fcber die Zielerreichung und gegebenenfalls \u00fcber Korrekturmassnahmen berichten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_b/para_2": {
+            "article_num": "Art.\u00a022",
+            "par_num": "2",
+            "text": "Die EFV erl\u00e4sst Weisungen zur \u00dcberpr\u00fcfung der Struktur und der Ziele der Leistungsgruppen nach Artikel 38",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_22_c/para": {
+            "article_num": "Art.\u00a022",
+            "par_num": "",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_23/para_1": {
+            "article_num": "Art.\u00a023",
+            "par_num": "1",
+            "text": "Die Bundeskanzlei ist, in Zusammenarbeit mit den Departementen, zust\u00e4ndig f\u00fcr die Information der Bundesversammlung, der Kantone und der \u00d6ffentlichkeit \u00fcber Entscheide, Absichten und Vorkehren des Bundesrates. Sie sorgt f\u00fcr die n\u00f6tige Planung und erarbeitet die Grunds\u00e4tze f\u00fcr die Kommunikationspolitik des Bundesrates.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_23/para_2": {
+            "article_num": "Art.\u00a023",
+            "par_num": "2",
+            "text": "Die Departemente und die Bundeskanzlei tragen die Verantwortung f\u00fcr die interne und externe Information und Kommunikation \u00fcber ihre Gesch\u00e4fte. Sie stellen diese in den Gesamtzusammenhang der Kommunikationspolitik des Bundesrates. Sie regeln die Informationsaufgaben der ihnen untergeordneten Einheiten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_23/para_3": {
+            "article_num": "Art.\u00a023",
+            "par_num": "3",
+            "text": "Die Bundeskanzlei ist, in Zusammenarbeit mit der Konferenz der Informationsdienste, f\u00fcr die Koordination der Information und Kommunikation zust\u00e4ndig und kann zu diesem Zweck Weisungen erlassen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_23/para_4": {
+            "article_num": "Art.\u00a023",
+            "par_num": "4",
+            "text": "Bei Bedarf kann der Bundesrat die Information und Kommunikation bei der Bundespr\u00e4sidentin oder dem Bundespr\u00e4sidenten, bei der Bundeskanzlei, einem Departement oder einer anderen bezeichneten Stelle zentralisieren. Die bezeichnete Stelle erh\u00e4lt entsprechende Weisungsbefugnisse.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24/para_u1": {
+            "article_num": "Art.\u00a024",
+            "par_num": "",
+            "text": "(Art. 8 Abs. 3 und 4, 36 Abs. 3 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24/para_1": {
+            "article_num": "Art.\u00a024",
+            "par_num": "1",
+            "text": "Mit der Aufsicht stellen der Bundesrat, die Departemente und die Bundeskanzlei die Erf\u00fcllung der verfassungsm\u00e4ssigen und gesetzlichen Aufgaben sicher.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24/para_2": {
+            "article_num": "Art.\u00a024",
+            "par_num": "2",
+            "text": "Die Aufsicht \u00fcber die zentrale Bundesverwaltung ist umfassend. Sie richtet sich nach den in den Artikeln 11 und 12 aufgef\u00fchrten Grunds\u00e4tzen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24/para_3": {
+            "article_num": "Art.\u00a024",
+            "par_num": "3",
+            "text": "Die Aufsicht \u00fcber die dezentrale Bundesverwaltung sowie \u00fcber die Organisationen und Personen gem\u00e4ss Artikel\u00a02 Absatz\u00a04 RVOG wird in Gegenstand, Umfang und Grunds\u00e4tzen durch die Spezialgesetzgebung geregelt und richtet sich nach dem jeweiligen Grad der Autonomie.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_u1": {
+            "article_num": "Art.\u00a024",
+            "par_num": "",
+            "text": "(Art. 8 Abs. 4 und 5 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_1": {
+            "article_num": "Art.\u00a024",
+            "par_num": "1",
+            "text": "Der Bundesrat nimmt die Rolle des Eigners und die damit verbundene Aufsicht und Steuerung gegen\u00fcber den verselbstst\u00e4ndigten Einheiten nach Artikel\u00a08 Absatz\u00a05 RVOG gesamtheitlich wahr.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_2": {
+            "article_num": "Art.\u00a024",
+            "par_num": "2",
+            "text": "Das Departement mit dem engsten Sachbezug nimmt im Auftrag des Bundesrates die Aufsicht wahr, \u00fcbt die Eignerrechte aus und dient als Ansprechpartner f\u00fcr die Leitungsorgane der verselbstst\u00e4ndigten Einheiten. Bei verselbstst\u00e4ndigten Einheiten mit grosser Bedeutung f\u00fcr den Bundeshaushalt \u00fcbt es die Eignerrechte gemeinsam mit der EFV aus. Die Zuordnung der verselbstst\u00e4ndigten Einheiten zu den Departementen und die gemeinsame Aus\u00fcbung der Eignerrechte mit der EFV sind in Anhang\u00a03 aufgelistet.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_3": {
+            "article_num": "Art.\u00a024",
+            "par_num": "3",
+            "text": "Haben weitere Departemente und Verwaltungseinheiten einen Sachbezug zu verselbstst\u00e4ndigten Einheiten, so sind sie bei der Erf\u00fcllung der Aufgaben nach Absatz\u00a02 beizuziehen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_4\u00a0": {
+            "article_num": "Art.\u00a024",
+            "par_num": "4",
+            "text": "F\u00fcr die Erf\u00fcllung der Aufgaben nach Absatz 2 ist das Generalsekretariat des Departements zust\u00e4ndig. Das Departement kann die Zust\u00e4ndigkeit schriftlich an ein Staatssekretariat oder ein Bundesamt delegieren, wenn keine Interessenskonflikte bestehen, insbesondere bei der Regulierung, Fachaufsicht, Bestellung und Subventionierung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_24_a/para_5": {
+            "article_num": "Art.\u00a024",
+            "par_num": "5",
+            "text": "Die EFV erarbeitet die Grundlagen der Aufsicht und Steuerung der verselbstst\u00e4ndigten Einheiten des Bundes (Public Corporate Governance) und sorgt f\u00fcr die Koordination der Berichterstattung. Sie arbeitet dabei mit den betroffenen Departementen und Verwaltungseinheiten zusammen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_25/para_u1": {
+            "article_num": "Art.\u00a025",
+            "par_num": "",
+            "text": "(Art. 8 Abs. 3 und 4 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_25/para_1": {
+            "article_num": "Art.\u00a025",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_25/para_2": {
+            "article_num": "Art.\u00a025",
+            "par_num": "2",
+            "text": "Mit Kontrollen sind in der Regel besondere Stellen befasst, die von der kontrollierten Verwaltungseinheit unabh\u00e4ngig sind.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_26/para": {
+            "article_num": "Art.\u00a026",
+            "par_num": "",
+            "text": "(Art. 8 Abs. 3 und 4, 25 Abs. 2 Bst. c und d, 32 Bst. e RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27/para_u1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "(Art. 5 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Die Verwaltungseinheiten \u00fcberpr\u00fcfen ihre Aufgaben, Leistungen, Prozesse und Organisation periodisch und systematisch auf ihre Notwendigkeit und auf \u00dcbereinstimmung mit den Grunds\u00e4tzen von Artikel 11 und 12; sie veranlassen die entsprechenden Anpassungs- und Verzichtsmassnahmen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Die Generalsekret\u00e4renkonferenz wirkt koordinierend mit.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Die EFV koordiniert unter Einbezug",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_a/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Die Administrativuntersuchung ist ein spezielles Verfahren der Kontrolle nach den Artikeln 25 und 26, mit dem abgekl\u00e4rt wird, ob ein Sachverhalt vorliegt, der im \u00f6ffentlichen Interesse ein Einschreiten von Amtes wegen erfordert.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_a/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Die Administrativuntersuchung richtet sich nicht gegen bestimmte Personen. Die Disziplinaruntersuchung nach Artikel 98 der Bundespersonalverordnung vom 3. Juli 2001",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_b/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Eine Administrativuntersuchung darf weder Strafuntersuchungen noch Untersuchungen der parlamentarischen Aufsichtsorgane behindern.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_b/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Ist ein Verfahrenskonflikt absehbar, so sistiert die anordnende Stelle die Administrativuntersuchung oder bricht sie ab.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_c/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Die Departementsvorsteherinnen und Departementsvorsteher sowie die Bundeskanzlerin oder der Bundeskanzler ordnen in den ihnen unterstehenden Verwaltungseinheiten Administrativuntersuchungen an. Sie k\u00f6nnen diese Zust\u00e4ndigkeit an die ihnen unterstellten Verwaltungseinheiten delegieren.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_c/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Ist von einer Administrativuntersuchung mehr als ein Departement, einschliesslich die Bundeskanzlei, betroffen, so ordnet der Bundesrat die Untersuchung an.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_d/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_d/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Die Untersuchung kann Personen ausserhalb der Bundesverwaltung \u00fcbertragen werden. Eine solche Person handelt als Beauftragte der anordnenden Stelle.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_d/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Die Untersuchungsorgane k\u00f6nnen im Rahmen ihres Auftrages Weisungen, aber keine Verf\u00fcgungen erlassen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_d/para_4": {
+            "article_num": "Art.\u00a027",
+            "par_num": "4",
+            "text": "Die Bestimmungen \u00fcber den Ausstand nach Artikel 10 des Bundesgesetzes vom 20. Dezember 1968",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_e/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_e/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Dem Untersuchungsauftrag werden allf\u00e4llige Vorakten beigelegt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_f/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Die anordnende Stelle gibt den betroffenen Verwaltungsstellen die Er\u00f6ffnung der Administrativuntersuchung sowie deren Anlass und Zweck sowie das Untersuchungsorgan bekannt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_f/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Sie erl\u00e4sst die erforderlichen Weisungen \u00fcber Zutritts- und Einsichtsrechte der Untersuchungsorgane sowie \u00fcber die Auskunftspflicht der betroffenen Angestellten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Zur Feststellung des Sachverhaltes bedient sich das Untersuchungsorgan der Beweismittel nach Artikel 12 VwVG",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Die in die Administrativuntersuchung einbezogenen Beh\u00f6rden und Angestellten des Bundes sind verpflichtet, an der Feststellung des Sachverhaltes mitzuwirken.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Zeigt sich im Verlauf der Administrativuntersuchung, dass Informationen, die unter die Schweigepflicht fallen, aus anderen Departementen oder der Bundeskanzlei notwendig sind, so hat das Untersuchungsorgan vorg\u00e4ngig das Einverst\u00e4ndnis des Vorstehers oder der Vorsteherin des Departements oder des Bundeskanzlers oder der Bundeskanzlerin einzuholen. In den anderen F\u00e4llen gilt Artikel 14.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_4": {
+            "article_num": "Art.\u00a027",
+            "par_num": "4",
+            "text": "Die in die Administrativuntersuchung einbezogenen Beh\u00f6rden und Personen haben Gelegenheit, alle Akten, die sie betreffen, einzusehen und dazu Stellung zu nehmen (Art. 26\u201328 VwVG).",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_g/para_5": {
+            "article_num": "Art.\u00a027",
+            "par_num": "5",
+            "text": "Sie haben Anspruch auf rechtliches Geh\u00f6r (Art. 29\u201333 VwVG).",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_h/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Die in die Administrativuntersuchung einbezogenen Personen k\u00f6nnen sich vertreten und verbeist\u00e4nden lassen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_h/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Das Untersuchungsorgan weist die Personen, die befragt werden sollen, darauf hin, dass sie die Aussage verweigern k\u00f6nnen, wenn sie sich mit dieser im Hinblick auf ein Disziplinar- oder Strafverfahren selbst belasten w\u00fcrden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_h/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Es weist Personen ausserhalb der Bundesverwaltung, die befragt werden sollen, darauf hin, dass ihre Auskunftserteilung freiwillig erfolgt.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_i/para": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "Jede Dienststelle, die vom Untersuchungsorgan zur Bekanntgabe von Personendaten aufgefordert wird, hat in eigener Kompetenz sicherzustellen, dass dabei die Bestimmungen des Datenschutzgesetzes vom 25. September 2020",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Das Untersuchungsorgan liefert der anordnenden Stelle s\u00e4mtliche Untersuchungsakten sowie einen Bericht ab.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Es stellt im Bericht den Ablauf sowie die Ergebnisse der Untersuchung dar und pr\u00e4sentiert Vorschl\u00e4ge f\u00fcr das weitere Vorgehen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Die anordnende Stelle informiert die in eine Administrativuntersuchung einbezogenen Beh\u00f6rden und Personen \u00fcber das Ergebnis.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_4": {
+            "article_num": "Art.\u00a027",
+            "par_num": "4",
+            "text": "\u00dcber die Folgen einer Administrativuntersuchung entscheidet die anordnende Stelle.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_j/para_5": {
+            "article_num": "Art.\u00a027",
+            "par_num": "5",
+            "text": "Die Ergebnisse einer Administrativuntersuchung k\u00f6nnen zum Anlass f\u00fcr die Einleitung anderer, insbesondere personalrechtlicher Verfahren genommen werden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_k/para_u1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "(Art. 61",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_k/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Gesetze und Verordnungen der Kantone, die vom Bund genehmigt werden m\u00fcssen, sind bei der Bundeskanzlei einzureichen. Die Bundeskanzlei kann die Einreichung verlangen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_k/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Die Erlasse sind einzureichen, sobald sie von der zust\u00e4ndigen kantonalen Beh\u00f6rde angenommen worden sind. Die Durchf\u00fchrung einer Volksabstimmung oder der Ablauf einer Referendumsfrist m\u00fcssen nicht abgewartet werden.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_k/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Die Kantone k\u00f6nnen genehmigungspflichtige Erlasse bei der Bundeskanzlei zur Vorpr\u00fcfung einreichen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_l/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Die Bundeskanzlei leitet einen bei ihr eingereichten Erlass an das zust\u00e4ndige Departement weiter.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_l/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "F\u00e4llt ein Erlass nicht in die ausschliessliche Zust\u00e4ndigkeit eines Departementes, so bestimmt die Bundeskanzlei die Federf\u00fchrung und orientiert die mitinteressierten Departemente.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_m/para": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "(Art. 61",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_n/para_u1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "(Art. 61",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_n/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Kommt das Departement zum Schluss, dass die Genehmigung wegen Bundesrechtswidrigkeit nicht oder nur mit Vorbehalt erteilt werden kann, so trifft es innert zwei Monaten nach Einreichung einen Zwischenentscheid. Es unterbreitet den Entscheid mit kurzer Begr\u00fcndung dem Kanton und setzt ihm eine Frist zur Stellungnahme.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_n/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Kommt das Departement auf Grund der Stellungnahme des Kantons zum Schluss, dass keine Bundesrechtswidrigkeit besteht, so erteilt es die Genehmigung innert zwei Monaten nach Eingang der Stellungnahme des Kantons.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_n/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Andernfalls unterbreitet das Departement dem Bundesrat das Gesch\u00e4ft innert zwei Monaten mit einem Antrag auf Erteilung der Genehmigung mit Vorbehalt oder auf Verweigerung der Genehmigung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_o/para_u1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "(Art. 61",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_o/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "\u00dcber Vertr\u00e4ge der Kantone unter sich oder mit dem Ausland informieren die Vertragskantone oder eine von ihnen bezeichnete Koordinationsstelle die Bundeskanzlei.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_o/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_o/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Der Vertragstext ist der Information beizulegen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_p/para": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "Die Kantone k\u00f6nnen Vertr\u00e4ge unter sich bei der Bundeskanzlei zur Vorpr\u00fcfung einreichen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_q/para_u1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "(Art. 62 Abs. 1 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_q/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Die Bundeskanzlei orientiert die nicht beteiligten Kantone (Drittkantone) in Form einer Bekanntmachung im Bundesblatt \u00fcber einen ihr zur Kenntnis gebrachten Vertrag innert 14 Tagen seit Eingang des Vertrags.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_q/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Sie nennt in der Bekanntmachung die Vertragskantone, den Titel des betreffenden Vertrags sowie die Stelle, bei welcher der Vertragstext bezogen oder eingesehen werden kann.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_q/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "F\u00fcr Vertr\u00e4ge der Kantone mit dem Ausland, die durch Vermittlung des Bundes abgeschlossen werden, gelten die Abs\u00e4tze 1 und 2 sinngem\u00e4ss.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_r/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Die Bundeskanzlei leitet einen bei ihr eingereichten Vertrag an das zust\u00e4ndige Departement weiter.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_r/para_2": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "F\u00e4llt ein Vertrag nicht in die ausschliessliche Zust\u00e4ndigkeit eines Departements, so bestimmt die Bundeskanzlei die Federf\u00fchrung und orientiert die mitinteressierten Departemente.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_s/para_u1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "(Art. 62 Abs. 2 und 3 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_s/para_1": {
+            "article_num": "Art.\u00a027",
+            "par_num": "1",
+            "text": "Das Departement teilt das Ergebnis der Pr\u00fcfung des Vertrags innert zwei Monaten seit der Orientierung im Bundesblatt nach Artikel 27",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_s/para_2 ": {
+            "article_num": "Art.\u00a027",
+            "par_num": "2",
+            "text": "Stellt das Departement fest, dass der Vertrag dem Recht oder den Interessen des Bundes zuwiderl\u00e4uft, so macht es diesen Einwand gegen\u00fcber den Vertragskantonen und gegebenenfalls der Koordinationsstelle geltend und l\u00e4dt sie zur Stellungnahme ein.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_s/para_3": {
+            "article_num": "Art.\u00a027",
+            "par_num": "3",
+            "text": "Das Departement teilt den Vertragskantonen und der Koordinationsstelle sowie der Bundeskanzlei umgehend mit, ob auf Grund der Stellungnahme der Widerspruch zum Recht oder den Interessen des Bundes bestehen bleibt oder nicht.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_27_t/para": {
+            "article_num": "Art.\u00a027",
+            "par_num": "",
+            "text": "(Art. 62 Abs. 4 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_28/para": {
+            "article_num": "Art.\u00a028",
+            "par_num": "",
+            "text": "(Art. 31 Abs. 3, 43 und 47 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_29/para_u1": {
+            "article_num": "Art.\u00a029",
+            "par_num": "",
+            "text": "(Art. 37 und 43 Abs. 4 RVOG)",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_29/para_1": {
+            "article_num": "Art.\u00a029",
+            "par_num": "1",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_29/para_2": {
+            "article_num": "Art.\u00a029",
+            "par_num": "2",
+            "text": "F\u00fcr departements\u00fcbergreifende Aufgaben k\u00f6nnen die zust\u00e4ndigen Departemente bzw. die Bundeskanzlei eine gemeinsame Gesch\u00e4ftsordnung erlassen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_29/para_3": {
+            "article_num": "Art.\u00a029",
+            "par_num": "3",
+            "text": "Die Gesch\u00e4ftsordnungen sind \u00f6ffentlich zug\u00e4nglich, werden aber nicht in der Amtlichen Sammlung des Bundesrechts publiziert.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_30/para_1": {
+            "article_num": "Art.\u00a030",
+            "par_num": "1",
+            "text": "Der Bundesrat bzw. die Generalsekret\u00e4renkonferenz, die Departemente oder die Bundeskanzlei sorgen mit Weisungen und Arbeitshilfen f\u00fcr den guten Gang der Verwaltung.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_30/para_2": {
+            "article_num": "Art.\u00a030",
+            "par_num": "2",
+            "text": "",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_31/para_1": {
+            "article_num": "Art.\u00a031",
+            "par_num": "1",
+            "text": "Die Departemente und die Bundeskanzlei entscheiden in ihrem Bereich \u00fcber Bewilligungen nach Artikel 271 Ziffer 1 des Strafgesetzbuches",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_31/para_1bis": {
+            "article_num": "Art.\u00a031",
+            "par_num": "1bis",
+            "text": "Erm\u00e4chtigungen nach Artikel 22 des Bundesbeschlusses vom 21. Dezember 1995",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_31/para_2": {
+            "article_num": "Art.\u00a031",
+            "par_num": "2",
+            "text": "F\u00e4lle von politischer oder anderer grunds\u00e4tzlicher Bedeutung sind dem Bundesrat zu unterbreiten.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_31/para_3": {
+            "article_num": "Art.\u00a031",
+            "par_num": "3",
+            "text": "Die Entscheide sind der Bundesanwaltschaft und den mitinteressierten Departementen zuzustellen.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_34/para": {
+            "article_num": "Art.\u00a034",
+            "par_num": "",
+            "text": "Der Bundesratsbeschluss vom 7.\u00a0Juli 1971",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_35/para_1": {
+            "article_num": "Art.\u00a035",
+            "par_num": "1",
+            "text": "Diese Verordnung tritt unter Vorbehalt von Absatz 2 am 1. Januar 1999 in Kraft.",
+            "comment": ""
+        },
+        "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201/art_35/para_2": {
+            "article_num": "Art.\u00a035",
+            "par_num": "2",
+            "text": "Die Artikel 26 und 27 treten gleichzeitig mit der Organisationsverordnung f\u00fcr die Bundeskanzlei vom 5. Mai 1999",
+            "comment": ""
+        }
     }
 }

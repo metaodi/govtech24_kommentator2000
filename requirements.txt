@@ -4,3 +4,5 @@ Flask
 Flask-Cors
 python-dotenv
 pygithub
+requests
+SPARQLWrapper==1.8.2

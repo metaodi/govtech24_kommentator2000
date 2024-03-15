@@ -4,22 +4,35 @@
     <h1>{% block title %} Vernehmlassung 2000 {% endblock %}</h1>
 	<form method="get">
 	  <div class="form-group">
-		<label for="consultation_id" value="{{ request.args['consultation_id'] }}">Fedlex Nummer der Vernehmlassung</label>
-		<input type="text" class="form-control" name="consultation_id" aria-describedby="fedlexlHelp" value="{{ consultation_id if consultation_id}}" placeholder="172.010.1">
+		<label for="sr_id" value="{{ request.args['consultation_id'] }}">SR-Nummer des Gesetzestexts</label>
+		<input type="text" class="form-control" name="sr_id" aria-describedby="fedlexlHelp" value="{{ sr_id if sr_id}}" placeholder="172.010.1">
 		<small id="fedlexHelp" class="form-text text-muted">SR-Nummer für die eine Vernehmlassung gestartet werden sll (z.B. 172.010.1).</small>
 	  </div>
 	  <button type="submit" class="btn btn-primary">Gesetzestext laden</button>
     </form>
-    <form>
+    <form action="{{ url_for('submit_consultation')}}" method="post">
+    <input type="hidden" name="sr_id" value="{{ sr_id if sr_id}}" />
+    <hr>
+    {% set ns = namespace(article='') %}
+    <h2>{{ title }}</h2>
     {% for key in content %}
+          <input id="{{key}}_key" name="keys" type="hidden" value="{{key}}" />
 		<div class="form-group">
-          <label for="exampleFormControlTextarea1">Example textarea</label>
+          {% if ns.article != content[key]['article_num'] %}
+          {% set ns.article = content[key]['article_num'] %}
+          <label for="{{key}}_text"><strong>{{ ns.article }}</strong></label>
+          {% elif content[key]['par_num'] != "" %}
+          <label for="{{key}}_text">Par. {{ content[key]['par_num'] }}</label>
+          {% else %}
+          <label for="{{key}}_text">{{ key }}</label>
+          {% endif %}
           <textarea class="form-control" id="{{key}}_text" name="{{key}}_text" rows="3">{{ content[key]['text'] }}</textarea>
         </div>
 		<div class="form-group">
           <input class="form-control form-control-lg" id="{{key}}_comment" name="{{key}}_comment"type="text" placeholder="Kommentar">
         </div>
     {% endfor %}
+	     <button type="submit" class="btn btn-primary">Vernehmlassung erstellen</button>
     </form>
 		
 
