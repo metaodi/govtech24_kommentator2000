@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>{% block title %} Vernehmlassung erstellt {% endblock %}</h1>
+    <p>Strukturierte Vernehmlassung erfolgreich erstellt.</p> 
+    <p><a href="{{ pr_url }}">Änderungen auf GitHub ansehen</a></p>
+    <pre>{{ content if content}}</pre>
+{% endblock %}
+

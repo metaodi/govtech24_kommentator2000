@@ -3,6 +3,7 @@ import json
 from flask import Flask, jsonify, request, render_template
 from flask_cors import CORS
 from github import Github
+import uuid
 
 from dotenv import load_dotenv, find_dotenv
 load_dotenv(find_dotenv())
@@ -25,34 +26,41 @@ CORS(app, resources={r'/*': {'origins': '*'}})
 def home():
     args = request.args
 
-    con_id = args.get("consultation_id")
+    sr_id = args.get("sr_id")
 
     # read json
-    content = {}
-    if con_id:
-        json_path = os.path.join("fedlex", f"{con_id}.json")
+    content = {'_metadata': {}, 'lines': {}}
+    if sr_id:
+        json_path = os.path.join("fedlex", f"{sr_id}.json")
         with open(json_path) as f:
             content = json.loads(f.read())
 
-    return render_template('index.html', consultation_id=con_id, content=content)
+    return render_template('index.html', sr_id=sr_id, content=content['lines'], **content['_metadata'])
 
 @app.route('/submit_consultation', methods=['POST'])
-def submit_calendar():
-    response = {"status": "success"}
-    data = request.get_json()
-    print(data)
+def submit_consultation():
+    sr_id = request.form['sr_id']
 
-        # filename = data['municipality'].replace(' ', '_').replace('.', '').lower()
-        # repo_path = f"csv/{filename}.csv"
+    # read json
+    json_path = os.path.join("fedlex", f"{sr_id}.json")
+    with open(json_path) as f:
+        content = json.loads(f.read())
 
-        # br_id = str(uuid.uuid4())
-        # branch = f"{filename}-{br_id}"
+    keys = request.form.getlist('keys')
+    for key in keys:
+        content['lines'][key]['text'] = request.form[f"{key}_text"]
+        content['lines'][key]['comment'] = request.form[f"{key}_comment"]
+    content_text = json.dumps(content, indent=4)
 
-        # create_branch(branch)
-        # add_csv_to_branch(branch, fp, repo_path)
-        # create_pull_request(branch, f"New data for {data['municipality']}", "Please check")
+    repo_path = f"fedlex/{sr_id}.json"
+    br_id = str(uuid.uuid4())
+    branch = f"{sr_id}-{br_id}"
+    create_branch(branch)
+    update_file_in_branch(branch, content_text, repo_path)
 
-    return jsonify(response)
+    pr_url = create_pull_request(branch, f"New consultation for {content['_metadata']['short']}", "Please add your comments")
+
+    return render_template('consultation.html', pr_url=pr_url, content=content)
 
 
 # function to create new branch (wiring to app still missing)
@@ -81,7 +89,7 @@ def create_branch(new_branch_name):
 
 
 # function to add file to branch
-def add_csv_to_branch(branch_name, csv_file, repo_path):
+def update_file_in_branch(branch_name, content, repo_path):
     # Replace with the name of your repository and the owner's username
     REPO_NAME = 'govtech24_kommentator2000'
     OWNER_NAME = 'metaodi'
@@ -95,20 +103,23 @@ def add_csv_to_branch(branch_name, csv_file, repo_path):
     # Get the branch object
     branch = repo.get_branch(branch_name)
 
+    # get current file
+    contents = repo.get_contents(repo_path)
+
     # Read the contents of the CSV file
-    contents = csv_file.read()
     print(contents)
 
     # Create the new file in the repository
-    repo.create_file(
+    repo.update_file(
         path=repo_path,
         message='Add consultation version',
-        content=contents,
+        sha=contents.sha,
+        content=content,
         branch=branch_name
     )
 
     # Print a success message
-    print('File added to branch.')
+    print('File updated in branch.')
 
 # function to create pull request
 def create_pull_request(branch_name, title, description):
@@ -135,6 +146,7 @@ def create_pull_request(branch_name, title, description):
 
     # Print a success message with the pull request URL
     print(f"Pull request created successfully: {pull_request.html_url}")
+    return pull_request.html_url
 
 if __name__ == '__main__':
     app.run()
