@@ -1,17 +1,27 @@
 # Kommentator 2000
 ## Analyse
-https://github.com/cirsfid-unibo/lime
-Demokratis.ch
-Konova / https://e-mitwirkung.ch/
 
-https://github.com/laws-africa/indigo
-https://code.europa.eu/leos/core
-https://joinup.ec.europa.eu/collection/justice-law-and-security/solution/leos-open-source-software-editing-legislation/release/300-0
+[Akoma Ntoso](http://www.akomantoso.org/) ist komplex.
 
-Id:
-FRBRuri -> https://fedlex.data.admin.ch/eli/cc/1999/170/20240201
-eId -> chap_1![image](https://github.com/metaodi/govtech24_kommentator2000/assets/12624245/6dbbb31d-3b44-4613-9aa5-cb15f08e469e)
+Verschiedene Akoma Ntoso Editoren gibt es am Markt:
+- [Indigo by Laws.Africa](https://github.com/laws-africa/indigo)
+- [Lime by University of Bologna](https://github.com/cirsfid-unibo/lime)
+- [LEOS by EU](https://code.europa.eu/leos/core)
 
+Für den Vernehmlassung Prozess abzuwickeln gibt es in der Schweiz folgende bekannte Akteure ausserhalb der Bundesverwaltung:
+- [demokratis.ch](https://demokratis.ch/)
+- [e-mitwirkung.ch](https://e-mitwirkung.ch/)
+  - [E-Mitwirkung des Kanton Luzern](https://lu.e-mitwirkung.ch/de/)
+
+Im Akamo Ntoso XML von Fedlex können folgende Identifikatoren verwendet werden:
+```
+// document/law identification
+// e.g. "https://fedlex.data.admin.ch/eli/cc/1999/170/20240201"
+/akomaNtoso/act/meta/identification/FRBRWork/FRBRuri[@value]
+// paragraph identification
+// e.g. "art_1/para_1"
+//paragraph[@eId]
+```
 
 ## Ziele
 Dieses Projekt hat folgende Ziele:
