@@ -46,6 +46,20 @@ Im Akamo Ntoso XML von Fedlex können folgende Identifikatoren verwendet werden:
 * Copy `.env.dist` to `.env` and adapt the values
 * Run the flask app using `flask run`
 
+### Verwendung
+
+Gesetzestext als JSON abspeichern (im Verzeichnis `fedlex`):
+
+```
+python xml_to_json.py --sr <sr-nummer>
+```
+
+Sobald das passiert ist, steht das Gesetz im Frontend zur Verfügung. Ggf. erfolgt dieser Schritt zukünftig automatisch z.B. via GitHub Actions
+
+Wenn der Webserver mit der Flask-Applikation läuft, kann via http://localhost:5000/ die Applikation im Browser geöffnet werden.
+
+Hier eine kurze Demo: https://youtu.be/ebMGz2jKiRA
+
 ## Approach #2
 
 1. Daten im XML Format Akoma Ntoso direkt editieren
